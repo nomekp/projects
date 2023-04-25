@@ -1,0 +1,1185 @@
+iso_3166_1;name;movie_id
+FI;Finland;2
+FI;Finland;3
+US;United States of America;5
+US;United States of America;6
+AT;Austria;8
+DE;Germany;9
+US;United States of America;11
+US;United States of America;12
+US;United States of America;13
+US;United States of America;14
+US;United States of America;15
+AR;Argentina;16
+DK;Denmark;16
+FI;Finland;16
+FR;France;16
+DE;Germany;16
+IS;Iceland;16
+IT;Italy;16
+NL;Netherlands;16
+NO;Norway;16
+SE;Sweden;16
+GB;United Kingdom;16
+US;United States of America;16
+DE;Germany;17
+GB;United Kingdom;17
+FR;France;18
+GB;United Kingdom;18
+DE;Germany;19
+CA;Canada;20
+ES;Spain;20
+US;United States of America;21
+US;United States of America;22
+US;United States of America;24
+GB;United Kingdom;25
+US;United States of America;25
+IL;Israel;26
+SE;Sweden;26
+GB;United Kingdom;27
+US;United States of America;28
+US;United States of America;33
+US;United States of America;35
+US;United States of America;38
+MX;Mexico;55
+US;United States of America;58
+CA;Canada;59
+DE;Germany;59
+US;United States of America;59
+GB;United Kingdom;62
+US;United States of America;62
+US;United States of America;63
+ES;Spain;64
+US;United States of America;64
+DE;Germany;65
+US;United States of America;65
+US;United States of America;66
+FR;France;67
+DE;Germany;67
+NL;Netherlands;67
+PS;Palestinian Territory;67
+GB;United Kingdom;68
+US;United States of America;68
+DE;Germany;69
+US;United States of America;69
+US;United States of America;70
+FR;France;71
+GB;United Kingdom;71
+US;United States of America;71
+US;United States of America;73
+US;United States of America;74
+US;United States of America;75
+AT;Austria;76
+CH;Switzerland;76
+US;United States of America;76
+US;United States of America;77
+US;United States of America;78
+HK;Hong Kong;78
+GB;United Kingdom;78
+CN;China;79
+US;United States of America;80
+JP;Japan;81
+UY;Uruguay;82
+US;United States of America;82
+DE;Germany;82
+PY;Paraguay;82
+US;United States of America;83
+US;United States of America;85
+DE;Germany;86
+US;United States of America;87
+US;United States of America;88
+US;United States of America;89
+US;United States of America;90
+FR;France;91
+ES;Spain;91
+AT;Austria;92
+CH;Switzerland;92
+US;United States of America;93
+DE;Germany;94
+US;United States of America;95
+US;United States of America;96
+US;United States of America;97
+GB;United Kingdom;98
+US;United States of America;98
+ES;Spain;99
+FR;France;99
+GB;United Kingdom;100
+US;United States of America;100
+US;United States of America;101
+FR;France;101
+DK;Denmark;102
+US;United States of America;103
+DE;Germany;104
+US;United States of America;105
+US;United States of America;106
+GB;United Kingdom;107
+US;United States of America;107
+FR;France;108
+PL;Poland;108
+CH;Switzerland;108
+FR;France;109
+PL;Poland;109
+FR;France;110
+PL;Poland;110
+CH;Switzerland;110
+US;United States of America;111
+DK;Denmark;112
+SE;Sweden;112
+KR;South Korea;113
+DE;Germany;113
+US;United States of America;114
+GB;United Kingdom;115
+US;United States of America;115
+FR;France;116
+IE;Ireland;116
+LU;Luxembourg;116
+GB;United Kingdom;116
+US;United States of America;116
+US;United States of America;117
+GB;United Kingdom;118
+US;United States of America;118
+NZ;New Zealand;120
+US;United States of America;120
+NZ;New Zealand;121
+US;United States of America;121
+NZ;New Zealand;122
+US;United States of America;122
+ES;Spain;123
+GB;United Kingdom;123
+US;United States of America;123
+PL;Poland;124
+PL;Poland;125
+PL;Poland;126
+PL;Poland;127
+JP;Japan;128
+JP;Japan;129
+US;United States of America;132
+US;United States of America;133
+FR;France;134
+GB;United Kingdom;134
+US;United States of America;134
+US;United States of America;135
+US;United States of America;136
+US;United States of America;137
+US;United States of America;138
+DK;Denmark;139
+SE;Sweden;139
+ES;Spain;140
+US;United States of America;141
+CA;Canada;142
+US;United States of America;142
+US;United States of America;143
+FR;France;144
+DE;Germany;144
+DK;Denmark;145
+FR;France;145
+IS;Iceland;145
+NL;Netherlands;145
+NO;Norway;145
+ES;Spain;145
+SE;Sweden;145
+GB;United Kingdom;145
+CN;China;146
+HK;Hong Kong;146
+TW;Taiwan;146
+US;United States of America;146
+FR;France;147
+ES;Spain;148
+JP;Japan;149
+US;United States of America;150
+US;United States of America;152
+JP;Japan;153
+GB;United Kingdom;153
+US;United States of America;153
+US;United States of America;154
+GB;United Kingdom;155
+US;United States of America;155
+DK;Denmark;156
+FR;France;156
+GB;United Kingdom;156
+SE;Sweden;156
+US;United States of America;157
+DE;Germany;158
+DE;Germany;159
+FR;France;160
+US;United States of America;161
+US;United States of America;162
+US;United States of America;163
+US;United States of America;164
+US;United States of America;165
+FR;France;166
+DE;Germany;167
+GB;United Kingdom;167
+US;United States of America;167
+US;United States of America;168
+US;United States of America;169
+GB;United Kingdom;170
+FR;France;171
+US;United States of America;172
+US;United States of America;173
+US;United States of America;174
+FR;France;175
+IT;Italy;175
+US;United States of America;175
+US;United States of America;176
+US;United States of America;177
+US;United States of America;178
+FR;France;179
+DE;Germany;179
+GB;United Kingdom;179
+US;United States of America;179
+US;United States of America;180
+US;United States of America;182
+US;United States of America;183
+US;United States of America;184
+GB;United Kingdom;185
+US;United States of America;185
+CA;Canada;186
+DE;Germany;186
+GB;United Kingdom;186
+US;United States of America;186
+US;United States of America;187
+US;United States of America;189
+DE;Germany;190
+DE;Germany;191
+FR;France;192
+DE;Germany;192
+IT;Italy;192
+US;United States of America;193
+FR;France;194
+DE;Germany;194
+US;United States of America;195
+US;United States of America;196
+US;United States of America;197
+US;United States of America;198
+US;United States of America;199
+US;United States of America;200
+US;United States of America;201
+US;United States of America;203
+FR;France;204
+IT;Italy;204
+IT;Italy;205
+ZA;South Africa;205
+GB;United Kingdom;205
+US;United States of America;205
+AU;Australia;206
+DE;Germany;206
+FR;France;206
+GB;United Kingdom;206
+US;United States of America;207
+DE;Germany;211
+AR;Argentina;211
+US;United States of America;212
+US;United States of America;213
+US;United States of America;214
+US;United States of America;215
+DE;Germany;216
+US;United States of America;217
+GB;United Kingdom;218
+US;United States of America;218
+ES;Spain;219
+US;United States of America;220
+US;United States of America;221
+DE;Germany;222
+US;United States of America;223
+PL;Poland;224
+PL;Poland;225
+US;United States of America;226
+US;United States of America;227
+DE;Germany;228
+US;United States of America;229
+US;United States of America;231
+US;United States of America;232
+US;United States of America;233
+DE;Germany;234
+US;United States of America;235
+AU;Australia;236
+FR;France;236
+FR;France;237
+GB;United Kingdom;237
+US;United States of America;238
+US;United States of America;239
+US;United States of America;240
+US;United States of America;241
+US;United States of America;242
+GB;United Kingdom;243
+US;United States of America;243
+US;United States of America;244
+FR;France;245
+GB;United Kingdom;245
+US;United States of America;245
+FR;France;246
+JP;Japan;246
+US;United States of America;247
+US;United States of America;248
+US;United States of America;249
+DK;Denmark;250
+US;United States of America;251
+US;United States of America;252
+GB;United Kingdom;253
+NZ;New Zealand;254
+US;United States of America;254
+DE;Germany;254
+FR;France;255
+FR;France;256
+CZ;Czech Republic;257
+FR;France;257
+IT;Italy;257
+GB;United Kingdom;257
+FR;France;258
+IT;Italy;258
+FR;France;259
+GB;United Kingdom;260
+US;United States of America;261
+US;United States of America;262
+DE;Germany;265
+FR;France;266
+IT;Italy;266
+ES;Spain;267
+FR;France;267
+US;United States of America;268
+FR;France;269
+DE;Germany;270
+SE;Sweden;271
+NO;Norway;271
+GB;United Kingdom;272
+US;United States of America;272
+DE;Germany;273
+US;United States of America;274
+GB;United Kingdom;275
+US;United States of America;275
+AT;Austria;276
+DE;Germany;276
+DE;Germany;277
+HU;Hungary;277
+GB;United Kingdom;277
+US;United States of America;277
+US;United States of America;278
+US;United States of America;279
+FR;France;280
+US;United States of America;280
+US;United States of America;281
+US;United States of America;284
+US;United States of America;285
+DE;Germany;286
+US;United States of America;287
+US;United States of America;288
+US;United States of America;289
+GB;United Kingdom;290
+US;United States of America;290
+FR;France;291
+US;United States of America;291
+US;United States of America;292
+US;United States of America;293
+US;United States of America;294
+DE;Germany;296
+GB;United Kingdom;296
+US;United States of America;296
+US;United States of America;297
+US;United States of America;298
+US;United States of America;299
+FR;France;300
+IT;Italy;300
+US;United States of America;301
+FR;France;302
+GB;United Kingdom;302
+US;United States of America;303
+US;United States of America;306
+IT;Italy;307
+FR;France;308
+US;United States of America;308
+DK;Denmark;309
+SE;Sweden;309
+US;United States of America;310
+US;United States of America;311
+IT;Italy;311
+DE;Germany;312
+CA;Canada;313
+GB;United Kingdom;313
+US;United States of America;314
+US;United States of America;315
+DE;Germany;316
+BA;Bosnia and Herzegovina;317
+AT;Austria;317
+DE;Germany;317
+HR;Croatia;317
+US;United States of America;318
+DE;Germany;318
+FR;France;319
+US;United States of America;319
+US;United States of America;320
+CA;Canada;321
+US;United States of America;322
+US;United States of America;326
+US;United States of America;327
+JP;Japan;327
+GB;United Kingdom;327
+US;United States of America;329
+US;United States of America;330
+US;United States of America;331
+US;United States of America;332
+CA;Canada;333
+US;United States of America;334
+IT;Italy;335
+US;United States of America;335
+ES;Spain;336
+IT;Italy;336
+FR;France;337
+DE;Germany;338
+DE;Germany;339
+FR;France;339
+JP;Japan;339
+GB;United Kingdom;339
+US;United States of America;339
+US;United States of America;340
+FR;France;341
+US;United States of America;341
+DE;Germany;342
+US;United States of America;343
+DE;Germany;344
+GB;United Kingdom;345
+US;United States of America;345
+JP;Japan;346
+DE;Germany;347
+US;United States of America;348
+GB;United Kingdom;348
+FR;France;349
+FR;France;350
+US;United States of America;350
+DE;Germany;351
+DE;Germany;363
+TR;Turkey;363
+US;United States of America;364
+US;United States of America;377
+GB;United Kingdom;377
+US;United States of America;378
+US;United States of America;379
+US;United States of America;380
+US;United States of America;381
+US;United States of America;383
+DE;Germany;387
+US;United States of America;388
+US;United States of America;389
+DE;Germany;390
+PT;Portugal;390
+DE;Germany;391
+ES;Spain;391
+IT;Italy;391
+GB;United Kingdom;392
+US;United States of America;392
+US;United States of America;393
+CZ;Czech Republic;395
+DE;Germany;395
+GB;United Kingdom;395
+US;United States of America;395
+US;United States of America;396
+GB;United Kingdom;397
+US;United States of America;397
+CA;Canada;398
+US;United States of America;398
+US;United States of America;400
+US;United States of America;401
+FR;France;402
+US;United States of America;402
+US;United States of America;403
+US;United States of America;404
+IT;Italy;405
+FR;France;406
+DE;Germany;407
+US;United States of America;408
+GB;United Kingdom;409
+US;United States of America;409
+DE;Germany;410
+GB;United Kingdom;411
+US;United States of America;411
+US;United States of America;414
+US;United States of America;415
+DE;Germany;419
+US;United States of America;421
+IT;Italy;422
+FR;France;422
+FR;France;423
+DE;Germany;423
+PL;Poland;423
+GB;United Kingdom;423
+US;United States of America;424
+US;United States of America;425
+US;United States of America;426
+FR;France;427
+IT;Italy;427
+DE;Germany;428
+US;United States of America;429
+IT;Italy;429
+ES;Spain;429
+DE;Germany;429
+US;United States of America;430
+CA;Canada;431
+US;United States of America;433
+DE;Germany;434
+US;United States of America;435
+EC;Ecuador;436
+CO;Colombia;436
+US;United States of America;436
+CA;Canada;437
+CA;Canada;438
+FR;France;439
+IT;Italy;439
+US;United States of America;440
+US;United States of America;441
+DK;Denmark;442
+FI;Finland;442
+SE;Sweden;442
+AT;Austria;445
+FR;France;445
+DE;Germany;445
+IT;Italy;445
+DE;Germany;446
+FR;France;451
+GB;United Kingdom;451
+US;United States of America;451
+DK;Denmark;452
+FR;France;452
+DE;Germany;452
+IT;Italy;452
+NL;Netherlands;452
+ES;Spain;452
+SE;Sweden;452
+US;United States of America;453
+MX;Mexico;454
+US;United States of America;454
+DE;Germany;455
+GB;United Kingdom;455
+US;United States of America;455
+AT;Austria;457
+AT;Austria;458
+DE;Germany;458
+DE;Germany;459
+AT;Austria;459
+DE;Germany;460
+US;United States of America;462
+DK;Denmark;464
+SE;Sweden;464
+FR;France;465
+US;United States of America;466
+GB;United Kingdom;467
+US;United States of America;468
+DE;Germany;469
+US;United States of America;469
+US;United States of America;470
+DE;Germany;471
+FR;France;471
+PL;Poland;471
+US;United States of America;473
+US;United States of America;475
+US;United States of America;476
+DE;Germany;479
+US;United States of America;479
+FR;France;480
+DE;Germany;480
+IN;India;480
+IT;Italy;480
+US;United States of America;480
+ES;Spain;481
+US;United States of America;482
+US;United States of America;483
+GB;United Kingdom;488
+US;United States of America;488
+US;United States of America;489
+SE;Sweden;490
+DE;Germany;491
+US;United States of America;492
+US;United States of America;493
+US;United States of America;494
+GB;United Kingdom;496
+US;United States of America;496
+US;United States of America;497
+FR;France;499
+IT;Italy;499
+US;United States of America;500
+US;United States of America;501
+US;United States of America;502
+US;United States of America;503
+US;United States of America;504
+US;United States of America;505
+US;United States of America;506
+FR;France;507
+US;United States of America;507
+FR;France;508
+GB;United Kingdom;508
+GB;United Kingdom;509
+US;United States of America;509
+US;United States of America;510
+PL;Poland;511
+GB;United Kingdom;512
+US;United States of America;512
+CA;Canada;513
+IN;India;513
+US;United States of America;521
+US;United States of America;522
+DE;Germany;523
+FR;France;524
+US;United States of America;524
+US;United States of America;525
+US;United States of America;526
+NZ;New Zealand;527
+GB;United Kingdom;530
+GB;United Kingdom;531
+GB;United Kingdom;532
+GB;United Kingdom;533
+US;United States of America;533
+DE;Germany;534
+GB;United Kingdom;534
+US;United States of America;534
+US;United States of America;535
+CN;China;536
+DE;Germany;536
+FR;France;537
+DE;Germany;538
+US;United States of America;539
+US;United States of America;540
+US;United States of America;541
+MX;Mexico;542
+GB;United Kingdom;543
+US;United States of America;544
+US;United States of America;546
+US;United States of America;547
+JP;Japan;548
+US;United States of America;549
+US;United States of America;550
+US;United States of America;551
+IT;Italy;552
+CH;Switzerland;552
+DK;Denmark;553
+FR;France;553
+DE;Germany;553
+NL;Netherlands;553
+NO;Norway;553
+SE;Sweden;553
+GB;United Kingdom;553
+FI;Finland;554
+RU;Russia;554
+CH;Switzerland;555
+US;United States of America;557
+US;United States of America;558
+US;United States of America;559
+US;United States of America;560
+DE;Germany;561
+US;United States of America;561
+US;United States of America;562
+US;United States of America;563
+US;United States of America;564
+US;United States of America;565
+US;United States of America;567
+US;United States of America;568
+FR;France;570
+IT;Italy;570
+US;United States of America;571
+DK;Denmark;572
+NO;Norway;572
+SE;Sweden;572
+GB;United Kingdom;573
+US;United States of America;574
+DE;Germany;575
+US;United States of America;576
+CA;Canada;577
+GB;United Kingdom;577
+US;United States of America;577
+US;United States of America;578
+US;United States of America;579
+US;United States of America;580
+GB;United Kingdom;581
+US;United States of America;581
+FR;France;582
+DE;Germany;582
+GB;United Kingdom;583
+DE;Germany;584
+US;United States of America;584
+US;United States of America;585
+US;United States of America;586
+US;United States of America;587
+CA;Canada;588
+FR;France;588
+JP;Japan;588
+US;United States of America;588
+US;United States of America;590
+US;United States of America;591
+US;United States of America;592
+SU;Soviet Union;593
+US;United States of America;594
+US;United States of America;595
+US;United States of America;596
+US;United States of America;597
+BR;Brazil;598
+FR;France;598
+US;United States of America;599
+GB;United Kingdom;600
+US;United States of America;600
+US;United States of America;601
+US;United States of America;602
+US;United States of America;603
+US;United States of America;604
+US;United States of America;605
+US;United States of America;606
+US;United States of America;607
+US;United States of America;608
+US;United States of America;609
+CA;Canada;612
+FR;France;612
+US;United States of America;612
+AT;Austria;613
+DE;Germany;613
+IT;Italy;613
+SE;Sweden;614
+US;United States of America;615
+JP;Japan;616
+US;United States of America;616
+NZ;New Zealand;616
+US;United States of America;617
+US;United States of America;618
+US;United States of America;619
+US;United States of America;620
+US;United States of America;621
+ES;Spain;622
+FR;France;622
+GB;United Kingdom;623
+US;United States of America;623
+US;United States of America;624
+GB;United Kingdom;625
+FR;France;626
+GB;United Kingdom;627
+US;United States of America;628
+US;United States of America;629
+US;United States of America;630
+US;United States of America;631
+US;United States of America;632
+BE;Belgium;633
+NL;Netherlands;633
+GB;United Kingdom;634
+CA;Canada;635
+GB;United Kingdom;635
+US;United States of America;635
+US;United States of America;636
+IT;Italy;637
+US;United States of America;638
+FR;France;638
+US;United States of America;639
+US;United States of America;640
+US;United States of America;641
+US;United States of America;642
+SU;Soviet Union;643
+US;United States of America;644
+GB;United Kingdom;646
+JP;Japan;647
+FR;France;648
+FR;France;649
+IT;Italy;649
+US;United States of America;650
+US;United States of America;651
+US;United States of America;652
+MT;Malta;652
+GB;United Kingdom;652
+DE;Germany;653
+US;United States of America;654
+FR;France;655
+DE;Germany;655
+GB;United Kingdom;655
+US;United States of America;655
+GB;United Kingdom;657
+US;United States of America;657
+GB;United Kingdom;658
+DE;Germany;659
+FR;France;659
+PL;Poland;659
+GB;United Kingdom;660
+DE;Germany;661
+FR;France;662
+CA;Canada;663
+US;United States of America;663
+US;United States of America;664
+US;United States of America;665
+BR;Brazil;666
+FR;France;666
+GB;United Kingdom;667
+GB;United Kingdom;668
+US;United States of America;669
+FR;France;669
+KR;South Korea;670
+GB;United Kingdom;671
+US;United States of America;671
+GB;United Kingdom;672
+US;United States of America;672
+GB;United Kingdom;673
+US;United States of America;673
+GB;United Kingdom;674
+US;United States of America;674
+GB;United Kingdom;675
+US;United States of America;675
+US;United States of America;676
+DE;Germany;677
+US;United States of America;678
+US;United States of America;679
+US;United States of America;680
+GB;United Kingdom;681
+US;United States of America;681
+GB;United Kingdom;682
+US;United States of America;682
+DE;Germany;685
+US;United States of America;686
+US;United States of America;687
+GB;United Kingdom;687
+US;United States of America;688
+GR;Greece;689
+FR;France;690
+GB;United Kingdom;691
+US;United States of America;691
+US;United States of America;692
+US;United States of America;693
+US;United States of America;694
+GB;United Kingdom;694
+US;United States of America;695
+US;United States of America;696
+SU;Soviet Union;697
+FR;France;698
+GB;United Kingdom;698
+GB;United Kingdom;699
+US;United States of America;699
+GB;United Kingdom;700
+US;United States of America;701
+US;United States of America;702
+US;United States of America;703
+GB;United Kingdom;704
+US;United States of America;705
+DE;Germany;706
+GB;United Kingdom;707
+GB;United Kingdom;708
+GB;United Kingdom;709
+US;United States of America;709
+GB;United Kingdom;710
+US;United States of America;710
+US;United States of America;711
+GB;United Kingdom;712
+NZ;New Zealand;713
+AU;Australia;713
+FR;France;713
+GB;United Kingdom;714
+US;United States of America;714
+DK;Denmark;742
+IT;Italy;742
+NO;Norway;742
+SE;Sweden;742
+DE;Germany;743
+FI;Finland;743
+US;United States of America;744
+US;United States of America;745
+CN;China;746
+FR;France;746
+IT;Italy;746
+GB;United Kingdom;746
+FR;France;747
+GB;United Kingdom;747
+US;United States of America;747
+GB;United Kingdom;750
+GB;United Kingdom;751
+DE;Germany;752
+GB;United Kingdom;752
+US;United States of America;752
+US;United States of America;753
+US;United States of America;754
+US;United States of America;755
+US;United States of America;756
+GB;United Kingdom;757
+GB;United Kingdom;758
+US;United States of America;759
+FR;France;760
+IT;Italy;760
+FR;France;761
+GB;United Kingdom;762
+NZ;New Zealand;763
+US;United States of America;764
+US;United States of America;765
+US;United States of America;766
+GB;United Kingdom;767
+US;United States of America;767
+CZ;Czech Republic;768
+US;United States of America;768
+GB;United Kingdom;768
+US;United States of America;769
+US;United States of America;770
+US;United States of America;771
+US;United States of America;772
+US;United States of America;773
+FR;France;774
+FR;France;775
+FR;France;776
+FR;France;777
+FR;France;778
+DE;Germany;779
+FR;France;779
+FR;France;780
+DE;Germany;781
+US;United States of America;782
+IN;India;783
+ZA;South Africa;783
+GB;United Kingdom;783
+US;United States of America;783
+FR;France;784
+CZ;Czech Republic;784
+GB;United Kingdom;784
+DE;Germany;785
+US;United States of America;786
+CN;China;787
+US;United States of America;787
+US;United States of America;788
+XC;Czechoslovakia;789
+US;United States of America;790
+CA;Canada;791
+FR;France;791
+US;United States of America;791
+US;United States of America;792
+GB;United Kingdom;792
+US;United States of America;793
+GB;United Kingdom;794
+US;United States of America;794
+DE;Germany;795
+US;United States of America;795
+US;United States of America;796
+SE;Sweden;797
+AT;Austria;798
+DE;Germany;798
+DE;Germany;799
+MX;Mexico;800
+US;United States of America;801
+GB;United Kingdom;802
+US;United States of America;802
+FR;France;803
+US;United States of America;804
+US;United States of America;805
+US;United States of America;806
+US;United States of America;807
+US;United States of America;808
+US;United States of America;809
+US;United States of America;810
+US;United States of America;811
+US;United States of America;812
+US;United States of America;813
+GB;United Kingdom;814
+US;United States of America;814
+GB;United Kingdom;815
+US;United States of America;815
+DE;Germany;816
+US;United States of America;816
+US;United States of America;817
+US;United States of America;818
+US;United States of America;819
+US;United States of America;820
+US;United States of America;821
+IN;India;822
+JP;Japan;823
+AU;Australia;824
+US;United States of America;824
+US;United States of America;825
+GB;United Kingdom;826
+US;United States of America;826
+FR;France;827
+US;United States of America;828
+US;United States of America;829
+US;United States of America;830
+US;United States of America;831
+DE;Germany;832
+IT;Italy;833
+US;United States of America;834
+DE;Germany;835
+BR;Brazil;836
+CA;Canada;837
+US;United States of America;838
+US;United States of America;839
+US;United States of America;840
+US;United States of America;841
+US;United States of America;842
+FR;France;843
+HK;Hong Kong;843
+NL;Netherlands;843
+DE;Germany;844
+HK;Hong Kong;844
+CN;China;844
+FR;France;844
+IT;Italy;844
+US;United States of America;845
+CA;Canada;846
+US;United States of America;846
+US;United States of America;847
+US;United States of America;848
+ES;Spain;849
+GB;United Kingdom;849
+IT;Italy;849
+US;United States of America;849
+US;United States of America;850
+CA;Canada;850
+GB;United Kingdom;851
+DE;Germany;852
+ES;Spain;852
+CH;Switzerland;852
+FR;France;853
+DE;Germany;853
+IE;Ireland;853
+GB;United Kingdom;853
+US;United States of America;853
+US;United States of America;854
+GB;United Kingdom;855
+US;United States of America;855
+US;United States of America;856
+US;United States of America;857
+US;United States of America;858
+GB;United Kingdom;859
+US;United States of America;859
+US;United States of America;860
+US;United States of America;861
+US;United States of America;862
+US;United States of America;863
+US;United States of America;864
+US;United States of America;865
+GB;United Kingdom;866
+US;United States of America;866
+US;United States of America;867
+ZA;South Africa;868
+GB;United Kingdom;868
+US;United States of America;869
+JP;Japan;870
+US;United States of America;871
+US;United States of America;872
+US;United States of America;873
+GB;United Kingdom;874
+US;United States of America;875
+US;United States of America;877
+DE;Germany;878
+US;United States of America;879
+NL;Netherlands;880
+GB;United Kingdom;880
+BE;Belgium;880
+US;United States of America;881
+DE;Germany;882
+US;United States of America;883
+CA;Canada;884
+GB;United Kingdom;884
+US;United States of America;884
+US;United States of America;885
+US;United States of America;886
+US;United States of America;887
+US;United States of America;888
+US;United States of America;889
+AT;Austria;890
+DE;Germany;890
+US;United States of America;891
+FR;France;892
+DE;Germany;893
+DE;Germany;894
+SU;Soviet Union;895
+IN;India;896
+IN;India;897
+US;United States of America;898
+US;United States of America;899
+US;United States of America;900
+US;United States of America;901
+BE;Belgium;902
+FR;France;902
+DE;Germany;902
+ES;Spain;902
+GB;United Kingdom;902
+US;United States of America;903
+DE;Germany;904
+DE;Germany;905
+DE;Germany;906
+IT;Italy;907
+GB;United Kingdom;907
+US;United States of America;907
+NL;Netherlands;908
+US;United States of America;909
+US;United States of America;910
+US;United States of America;911
+US;United States of America;912
+US;United States of America;913
+US;United States of America;914
+US;United States of America;916
+IN;India;917
+US;United States of America;918
+JP;Japan;919
+US;United States of America;920
+US;United States of America;921
+DE;Germany;922
+JP;Japan;922
+US;United States of America;922
+IT;Italy;923
+US;United States of America;923
+CA;Canada;924
+JP;Japan;924
+US;United States of America;924
+US;United States of America;925
+US;United States of America;926
+US;United States of America;927
+US;United States of America;928
+JP;Japan;929
+US;United States of America;929
+DE;Germany;930
+IT;Italy;931
+GB;United Kingdom;931
+DE;Germany;932
+XG;East Germany;932
+XG;East Germany;933
+FR;France;934
+GB;United Kingdom;935
+US;United States of America;935
+US;United States of America;936
+DE;Germany;938
+ES;Spain;938
+IT;Italy;938
+US;United States of America;939
+GB;United Kingdom;940
+US;United States of America;941
+US;United States of America;942
+US;United States of America;943
+US;United States of America;944
+US;United States of America;946
+GB;United Kingdom;947
+US;United States of America;948
+US;United States of America;949
+US;United States of America;950
+US;United States of America;951
+US;United States of America;953
+US;United States of America;954
+US;United States of America;955
+US;United States of America;956
+US;United States of America;957
+US;United States of America;961
+US;United States of America;962
+US;United States of America;963
+US;United States of America;964
+US;United States of America;965
+US;United States of America;966
+US;United States of America;967
+US;United States of America;968
+US;United States of America;975
+US;United States of America;976
+US;United States of America;977
+GB;United Kingdom;978
+US;United States of America;978
+FR;France;979
+US;United States of America;980
+US;United States of America;981
+US;United States of America;982
+US;United States of America;983
+GB;United Kingdom;983
+US;United States of America;984
+US;United States of America;985
+ES;Spain;986
+CH;Switzerland;986
+US;United States of America;987
+US;United States of America;988
+US;United States of America;989
+US;United States of America;990
+GB;United Kingdom;991
+US;United States of America;992
+GB;United Kingdom;993
+GB;United Kingdom;994
+US;United States of America;994
+US;United States of America;995
+US;United States of America;996
