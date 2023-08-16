@@ -57,9 +57,14 @@ for index, row in df_products.iterrows():
             domain = scan['domain']
             date_occurrence = scan['date_occurrence']
             availability = scan['availability']
-            price = scan.get('price', None)  # Get the price if it exists, otherwise None
-            offer_price = scan.get('offer_price', None)  # Get the offer_price if it exists, otherwise None
+            price = scan.get('price', None)
+            offer_price = scan.get('offer_price', None)
             sold_by = scan['sold_by']
+            from_price = scan.get('from_price', None)
+            fator = scan.get('fator', None)
+            factor_price = scan.get('factor_price', None)
+            factor_offer_price = scan.get('factor_offer_price', None)
+            factor_from_price = scan.get('factor_from_price', None)
 
             for seller in scan['sellers']:
                 seller_name = seller['sold_by']

@@ -229,7 +229,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864436;pfc328191;13997457;www.belezanaweb.com.br;2023-08-16 04:00:00;available;30,9;30,9;Amobeleza;Beleza na Web;43,9;43,9
 14864436;pfc328191;13997457;www.belezanaweb.com.br;2023-08-16 04:00:00;available;30,9;30,9;Amobeleza;Perfumaria Sumirê;42,77;42,77
 14864436;pfc328191;13656945;www.magazineluiza.com.br;2023-08-16 12:00:00;available;31,9;31,9;AmoBeleza;AmoBeleza;31,9;31,9
-14864436;pfc328191;17691718;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;32,99;32,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;32,99;32,99
+14864436;pfc328191;17691718;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;32,99;32,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;32,99;32,99
 14864436;pfc328191;18335336;www.belcosmeticos.com.br;2023-08-16 12:00:00;available;33,9;33,9;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;33,9;33,9
 14864436;pfc328191;17067331;www.submarino.com.br;2023-08-16 10:00:00;available;39,9;39,9;BELEZA NO SITE;BELEZA NO SITE;39,9;39,9
 14864436;pfc328191;17067332;www.shoptime.com.br;2023-08-16 12:00:00;available;39,9;39,9;BELEZA NO SITE;BELEZA NO SITE;39,9;39,9
@@ -418,7 +418,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864385;pfc328123;15670894;www.dannycosmeticos.com.br;2023-08-16 13:00:00;available;118,99;118,99;Danny Cosméticos;Danny Cosméticos;118,99;118,99
 14864385;pfc328123;17697166;www.lojasrede.com.br;2023-08-16 12:00:00;available;139,9;139,9;Lojas REDE;Lojas REDE;139,9;139,9
 14864385;pfc328123;18335276;www.belcosmeticos.com.br;2023-08-16 12:00:00;available;159,0;159,0;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;159,0;159,0
-14864406;pfc328162;13105469;www.ikesaki.com.br;2023-08-16 13:00:00;available;26,9;26,9;Ikesaki;Ikesaki;26,9;26,9
+14864406;pfc328162;13105469;www.ikesaki.com.br;2023-08-16 14:00:00;available;26,9;26,9;Ikesaki;Ikesaki;26,9;26,9
 14864406;pfc328162;13658010;www.americanas.com.br;2023-08-16 10:00:00;available;31,18;31,18;Olist;Olist;31,18;31,18
 14864406;pfc328162;18335308;www.belcosmeticos.com.br;2023-08-16 12:00:00;available;33,9;33,9;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;33,9;33,9
 14864406;pfc328162;17067990;www.submarino.com.br;2023-08-14 10:00:00;available;35,44;35,44;Olist;Olist;35,44;35,44
@@ -457,7 +457,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864423;pfc328176;13664055;www.belezanaweb.com.br;2023-08-16 04:00:00;available;30,9;30,9;Amobeleza;Amobeleza;30,9;30,9
 14864423;pfc328176;13664055;www.belezanaweb.com.br;2023-08-16 04:00:00;available;30,9;30,9;Amobeleza;Beleza na Web;39,9;39,9
 14864423;pfc328176;13656887;www.magazineluiza.com.br;2023-08-16 12:00:00;available;31,9;31,9;AmoBeleza;AmoBeleza;31,9;31,9
-14864423;pfc328176;17691681;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;32,99;32,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;32,99;32,99
+14864423;pfc328176;17691681;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;32,99;32,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;32,99;32,99
 14864423;pfc328176;17078702;www.shoptime.com.br;2023-08-15 12:00:00;available;34,9;34,9;Beautybox;Beautybox;34,9;34,9
 14864423;pfc328176;20119747;www.submarino.com.br;2023-08-16 10:00:00;available;34,9;34,9;Beautybox;Beautybox;34,9;34,9
 14864423;pfc328176;13655782;www.lojasrede.com.br;2023-08-16 12:00:00;available;35,99;35,99;Lojas REDE;Lojas REDE;35,99;35,99
@@ -468,7 +468,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864423;pfc328176;12921483;www.casasbahia.com.br;2023-08-15 17:00:00;available;41,75;41,75;Web Salão;Web Salão;41,75;41,75
 14864423;pfc328176;13084519;www.pontofrio.com.br;2023-08-15 12:00:00;available;41,75;41,75;Web Salão;Web Salão;41,75;41,75
 14864423;pfc328176;12973074;www.extra.com.br;2023-08-14 10:00:00;available;41,75;41,75;Web Salão;Web Salão;41,75;41,75
-14864423;pfc328176;13656889;www.magazineluiza.com.br;2023-08-16 13:00:00;available;41,75;39,66;Websalão;Websalão;41,75;39,66
+14864423;pfc328176;13656889;www.magazineluiza.com.br;2023-08-16 14:00:00;available;41,75;39,66;Websalão;Websalão;41,75;39,66
 14864423;pfc328176;17067066;www.casasbahia.com.br;2023-08-16 10:00:00;available;42,49;38,24;Olist;Olist;42,49;38,24
 14864423;pfc328176;17067067;www.pontofrio.com.br;2023-08-15 10:00:00;available;42,49;38,24;Olist;Olist;42,49;38,24
 14864423;pfc328176;13660422;www.extra.com.br;2023-08-14 18:00:00;available;42,49;38,24;Olist;Olist;42,49;38,24
@@ -1865,7 +1865,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864468;pfc328189;13997418;www.belezanaweb.com.br;2023-08-16 12:00:00;available;30,9;30,9;Amobeleza;Perfumaria Sumirê;48,3;48,3
 14864468;pfc328189;13656938;www.magazineluiza.com.br;2023-08-16 12:00:00;available;31,9;31,9;AmoBeleza;AmoBeleza;31,9;31,9
 14864468;pfc328189;17697241;www.soneda.com.br;2023-08-16 12:00:00;available;31,99;31,99;Soneda;Soneda;31,99;31,99
-14864468;pfc328189;17691713;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;32,99;32,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;32,99;32,99
+14864468;pfc328189;17691713;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;32,99;32,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;32,99;32,99
 14864468;pfc328189;17067929;www.shoptime.com.br;2023-08-13 18:00:00;available;34,9;30,71;Beautybox;Beautybox;34,9;30,71
 14864468;pfc328189;18198829;www.submarino.com.br;2023-08-14 10:00:00;available;34,9;30,71;Beautybox;Beautybox;34,9;30,71
 14864468;pfc328189;17067933;www.pontofrio.com.br;2023-08-15 10:00:00;available;35,77;32,19;Olist;Olist;35,77;32,19
@@ -1965,7 +1965,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864454;pfc328206;13997466;www.belezanaweb.com.br;2023-08-16 06:00:00;available;30,9;30,9;Amobeleza;Beleza na Web;36,9;36,9
 14864454;pfc328206;13656988;www.magazineluiza.com.br;2023-08-16 12:00:00;available;31,9;31,9;AmoBeleza;AmoBeleza;31,9;31,9
 14864454;pfc328206;13658387;www.americanas.com.br;2023-08-16 10:00:00;available;32,47;32,47;Beautybox;Beautybox;32,47;32,47
-14864454;pfc328206;17691753;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;32,99;32,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;32,99;32,99
+14864454;pfc328206;17691753;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;32,99;32,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;32,99;32,99
 14864454;pfc328206;13662653;www.pontofrio.com.br;2023-08-15 12:00:00;available;36,52;32,87;Olist;Olist;36,52;32,87
 14864454;pfc328206;13662652;www.casasbahia.com.br;2023-08-15 18:00:00;available;36,52;32,87;Olist;Olist;36,52;32,87
 14864454;pfc328206;13660500;www.extra.com.br;2023-08-15 18:00:00;available;36,52;32,87;Olist;Olist;36,52;32,87
@@ -2106,7 +2106,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864471;pfc328223;17067344;www.submarino.com.br;2023-08-16 10:00:00;available;56,05;56,05;Olist RJ;Olist;35,44;35,44
 14864471;pfc328223;17067345;www.shoptime.com.br;2023-08-16 12:00:00;available;56,27;56,27;Olist RJ;Olist RJ;56,27;56,27
 14864471;pfc328223;17067345;www.shoptime.com.br;2023-08-16 12:00:00;available;56,27;56,27;Olist RJ;Olist;35,44;35,44
-14864449;pfc328171;11724062;www.ikesaki.com.br;2023-08-16 13:00:00;available;26,9;26,9;Ikesaki;Ikesaki;26,9;26,9
+14864449;pfc328171;11724062;www.ikesaki.com.br;2023-08-16 14:00:00;available;26,9;26,9;Ikesaki;Ikesaki;26,9;26,9
 14864449;pfc328171;11725055;www.amazon.com.br;2023-08-16 03:00:00;available;29,9;29,9;AMOBELEZA;AMOBELEZA;29,9;29,9
 14864449;pfc328171;11725055;www.amazon.com.br;2023-08-16 03:00:00;available;29,9;29,9;AMOBELEZA;Nossa Beleza;31,0;31,0
 14864449;pfc328171;11725055;www.amazon.com.br;2023-08-16 03:00:00;available;29,9;29,9;AMOBELEZA;Segredo da Cor;37,64;37,64
@@ -3752,10 +3752,10 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864534;pfc328293;17067339;www.submarino.com.br;2023-08-14 18:00:00;available;33,9;33,9;AMOBELEZA;AMOBELEZA;33,9;33,9
 14864534;pfc328293;13658898;www.americanas.com.br;2023-08-16 10:00:00;available;33,9;33,9;AMOBELEZA;AMOBELEZA;33,9;33,9
 14864534;pfc328293;17067340;www.shoptime.com.br;2023-08-16 12:00:00;available;33,9;33,9;AMOBELEZA;AMOBELEZA;33,9;33,9
-14864534;pfc328293;13663399;www.magazineluiza.com.br;2023-08-16 13:00:00;available;35,9;35,9;AmoBeleza;AmoBeleza;35,9;35,9
+14864534;pfc328293;13663399;www.magazineluiza.com.br;2023-08-16 14:00:00;available;35,9;35,9;AmoBeleza;AmoBeleza;35,9;35,9
 14864534;pfc328293;13658901;www.americanas.com.br;2023-08-16 10:00:00;available;42,15;42,15;Beautybox;Beautybox;42,15;42,15
 14864534;pfc328293;17695188;www.websalao.com.br;2023-08-16 12:00:00;available;43,98;43,98;websalao;websalao;43,98;43,98
-14864534;pfc328293;17691832;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;45,99;45,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;45,99;45,99
+14864534;pfc328293;17691832;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;45,99;45,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;45,99;45,99
 14864534;pfc328293;13662485;www.submarino.com.br;2023-08-15 10:00:00;available;47,9;47,9;Beautybox;Beautybox;47,9;47,9
 14864534;pfc328293;13662486;www.shoptime.com.br;2023-08-16 10:00:00;available;47,9;47,9;Beautybox;Beautybox;47,9;47,9
 14864534;pfc328293;13663398;www.magazineluiza.com.br;2023-08-16 12:00:00;available;48,38;45,96;Websalão;Websalão;48,38;45,96
@@ -4835,7 +4835,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864565;pfc328317;13663482;www.magazineluiza.com.br;2023-08-16 12:00:00;available;35,9;35,9;AmoBeleza;AmoBeleza;35,9;35,9
 14864565;pfc328317;13662519;www.submarino.com.br;2023-08-15 10:00:00;available;36,9;36,9;Beautybox;Beautybox;36,9;36,9
 14864565;pfc328317;13662520;www.shoptime.com.br;2023-08-15 10:00:00;available;36,9;36,9;Beautybox;Beautybox;36,9;36,9
-14864565;pfc328317;17691869;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;45,99;45,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;45,99;45,99
+14864565;pfc328317;17691869;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;45,99;45,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;45,99;45,99
 14864565;pfc328317;13658983;www.americanas.com.br;2023-08-16 10:00:00;available;97,65;97,65;UM Beauty Store;UM Beauty Store;97,65;97,65
 14864565;pfc328317;17078742;www.submarino.com.br;2023-08-14 18:00:00;available;97,65;97,65;UM Beauty Store;UM Beauty Store;97,65;97,65
 14864565;pfc328317;17078743;www.shoptime.com.br;2023-08-13 18:00:00;available;97,65;97,65;UM Beauty Store;UM Beauty Store;97,65;97,65
@@ -4998,26 +4998,6 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864585;pfc328309;13662576;www.shoptime.com.br;2023-08-16 12:00:00;available;73,04;73,04;LKX;LKX;73,04;73,04
 14864585;pfc328309;13658958;www.americanas.com.br;2023-08-15 18:00:00;available;73,04;73,04;LKX;LKX;73,04;73,04
 14864585;pfc328309;13662575;www.submarino.com.br;2023-08-16 10:00:00;available;73,04;73,04;LKX;LKX;73,04;73,04
-14864559;pfc328314;13658975;www.americanas.com.br;2023-08-15 18:00:00;available;33,9;33,9;AMOBELEZA;AMOBELEZA;33,9;33,9
-14864559;pfc328314;13658975;www.americanas.com.br;2023-08-15 18:00:00;available;33,9;33,9;AMOBELEZA;SOPHIA COSMETICOS;34,99;34,99
-14864559;pfc328314;13658975;www.americanas.com.br;2023-08-15 18:00:00;available;33,9;33,9;AMOBELEZA;POUBEL PERFUMARIA;39,99;39,99
-14864559;pfc328314;13655641;www.belezanaweb.com.br;2023-08-16 04:00:00;available;34,9;34,9;Amobeleza;Amobeleza;34,9;34,9
-14864559;pfc328314;13655641;www.belezanaweb.com.br;2023-08-16 04:00:00;available;34,9;34,9;Amobeleza;Beleza na Web;47,9;47,9
-14864559;pfc328314;13655641;www.belezanaweb.com.br;2023-08-16 04:00:00;available;34,9;34,9;Amobeleza;Evas Perfumaria;42,9;42,9
-14864559;pfc328314;13661551;www.shoptime.com.br;2023-08-14 18:00:00;available;39,99;39,99;POUBEL PERFUMARIA;POUBEL PERFUMARIA;39,99;39,99
-14864559;pfc328314;13661551;www.shoptime.com.br;2023-08-14 18:00:00;available;39,99;39,99;POUBEL PERFUMARIA;SOPHIA COSMETICOS;34,99;34,99
-14864559;pfc328314;13661551;www.shoptime.com.br;2023-08-14 18:00:00;available;39,99;39,99;POUBEL PERFUMARIA;AMOBELEZA;33,9;33,9
-14864559;pfc328314;12854588;www.submarino.com.br;2023-08-14 18:00:00;available;39,99;39,99;POUBEL PERFUMARIA;POUBEL PERFUMARIA;39,99;39,99
-14864559;pfc328314;12854588;www.submarino.com.br;2023-08-14 18:00:00;available;39,99;39,99;POUBEL PERFUMARIA;SOPHIA COSMETICOS;34,99;34,99
-14864559;pfc328314;12854588;www.submarino.com.br;2023-08-14 18:00:00;available;39,99;39,99;POUBEL PERFUMARIA;AMOBELEZA;33,9;33,9
-14864559;pfc328314;13657636;www.amazon.com.br;2023-08-16 10:00:00;available;44,6;44,6;Athenas Cosméticos;Athenas Cosméticos;44,6;44,6
-14864559;pfc328314;13657636;www.amazon.com.br;2023-08-16 10:00:00;available;44,6;44,6;Athenas Cosméticos;SACOLAOCOM;49,9;49,9
-14864559;pfc328314;17697837;www.extra.com.br;2023-08-15 10:00:00;available;78,81;70,93;Olist Store;Olist Store;78,81;70,93
-14864559;pfc328314;17839088;www.pontofrio.com.br;2023-08-15 10:00:00;available;78,81;70,93;Olist Store;Olist Store;78,81;70,93
-14864559;pfc328314;17839087;www.casasbahia.com.br;2023-08-14 12:00:00;available;78,81;70,93;Olist Store;Olist Store;78,81;70,93
-14864559;pfc328314;17066602;www.submarino.com.br;2023-08-14 10:00:00;available;97,65;97,65;UM Beauty Store;UM Beauty Store;97,65;97,65
-14864559;pfc328314;17066603;www.shoptime.com.br;2023-08-16 12:00:00;available;97,65;97,65;UM Beauty Store;UM Beauty Store;97,65;97,65
-14864559;pfc328314;13658974;www.americanas.com.br;2023-08-15 18:00:00;available;97,65;97,65;UM Beauty Store;UM Beauty Store;97,65;97,65
 14864587;pfc328305;13658943;www.americanas.com.br;2023-08-15 18:00:00;available;33,87;33,87;Olist;Olist;33,87;33,87
 14864587;pfc328305;17080771;www.submarino.com.br;2023-08-14 10:00:00;available;38,49;38,49;Olist;Olist;38,49;38,49
 14864587;pfc328305;17078889;www.shoptime.com.br;2023-08-13 18:00:00;available;38,49;38,49;Olist;Olist;38,49;38,49
@@ -5090,7 +5070,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864584;pfc328337;13661589;www.submarino.com.br;2023-08-15 10:00:00;available;39,9;39,9;Beautybox;Evas Perfumaria;51,99;51,99
 14864584;pfc328337;13659076;www.americanas.com.br;2023-08-16 10:00:00;available;39,9;39,9;Beautybox;Beautybox;39,9;39,9
 14864584;pfc328337;13659076;www.americanas.com.br;2023-08-16 10:00:00;available;39,9;39,9;Beautybox;Evas Perfumaria;51,99;51,99
-14864584;pfc328337;13657324;www.magazineluiza.com.br;2023-08-16 13:00:00;available;39,99;35,99;poubel perfumaria;poubel perfumaria;39,99;35,99
+14864584;pfc328337;13657324;www.magazineluiza.com.br;2023-08-16 14:00:00;available;39,99;35,99;poubel perfumaria;poubel perfumaria;39,99;35,99
 14864584;pfc328337;17067840;www.submarino.com.br;2023-08-14 18:00:00;available;39,99;39,99;POUBEL PERFUMARIA;POUBEL PERFUMARIA;39,99;39,99
 14864584;pfc328337;17067840;www.submarino.com.br;2023-08-14 18:00:00;available;39,99;39,99;POUBEL PERFUMARIA;SOPHIA COSMETICOS;35,99;35,99
 14864584;pfc328337;17067840;www.submarino.com.br;2023-08-14 18:00:00;available;39,99;39,99;POUBEL PERFUMARIA;SAGULO COSMETICOS;37,99;37,99
@@ -5138,6 +5118,17 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864548;pfc328297;17695192;www.websalao.com.br;2023-08-16 12:00:00;available;43,98;43,98;websalao;websalao;43,98;43,98
 14864548;pfc328297;15941177;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;45,99;45,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;45,99;45,99
 14864548;pfc328297;13663409;www.magazineluiza.com.br;2023-08-16 12:00:00;available;57,73;57,73;Like Cosméticos;Like Cosméticos;57,73;57,73
+14864539;pfc328295;12937549;www.belezanaweb.com.br;2023-08-16 04:00:00;available;34,9;34,9;Amobeleza;Amobeleza;34,9;34,9
+14864539;pfc328295;12937549;www.belezanaweb.com.br;2023-08-16 04:00:00;available;34,9;34,9;Amobeleza;Beleza na Web;47,9;47,9
+14864539;pfc328295;12937549;www.belezanaweb.com.br;2023-08-16 04:00:00;available;34,9;34,9;Amobeleza;Evas Perfumaria;42,9;42,9
+14864539;pfc328295;13663403;www.magazineluiza.com.br;2023-08-16 12:00:00;available;35,9;35,9;AmoBeleza;AmoBeleza;35,9;35,9
+14864539;pfc328295;13661438;www.pontofrio.com.br;2023-08-15 12:00:00;available;40,89;36,8;Olist;Olist;40,89;36,8
+14864539;pfc328295;13660785;www.extra.com.br;2023-08-15 10:00:00;available;40,89;36,8;Olist;Olist;40,89;36,8
+14864539;pfc328295;13661437;www.casasbahia.com.br;2023-08-15 18:00:00;available;40,89;36,8;Olist;Olist;40,89;36,8
+14864539;pfc328295;17695190;www.websalao.com.br;2023-08-16 12:00:00;available;43,98;43,98;websalao;websalao;43,98;43,98
+14864539;pfc328295;15941173;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;45,99;45,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;45,99;45,99
+14864539;pfc328295;13663402;www.magazineluiza.com.br;2023-08-16 12:00:00;available;48,38;45,96;Websalão;Websalão;48,38;45,96
+14864539;pfc328295;13663401;www.magazineluiza.com.br;2023-08-16 12:00:00;available;57,73;57,73;Like Cosméticos;Like Cosméticos;57,73;57,73
 14864572;pfc328286;13657618;www.amazon.com.br;2023-08-15 22:00:00;available;29,0;29,0;Athenas Cosméticos;Athenas Cosméticos;29,0;29,0
 14864572;pfc328286;13658876;www.americanas.com.br;2023-08-15 18:00:00;available;31,0;31,0;POUBEL PERFUMARIA;POUBEL PERFUMARIA;31,0;31,0
 14864572;pfc328286;13658876;www.americanas.com.br;2023-08-15 18:00:00;available;31,0;31,0;POUBEL PERFUMARIA;SOPHIA COSMETICOS;31,0;31,0
@@ -5593,7 +5584,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864595;pfc328348;13657656;www.amazon.com.br;2023-08-16 10:00:00;available;50,6;50,6;Athenas Cosméticos;Segredo da Cor;51,74;51,74
 14864595;pfc328348;13657656;www.amazon.com.br;2023-08-16 10:00:00;available;50,6;50,6;Athenas Cosméticos;SACOLAOCOM;49,9;49,9
 14864589;pfc328313;13658972;www.americanas.com.br;2023-08-15 18:00:00;available;31,59;31,59;Beautybox;Beautybox;31,59;31,59
-14864589;pfc328313;13663466;www.magazineluiza.com.br;2023-08-16 13:00:00;available;35,9;35,9;AmoBeleza;AmoBeleza;35,9;35,9
+14864589;pfc328313;13663466;www.magazineluiza.com.br;2023-08-16 14:00:00;available;35,9;35,9;AmoBeleza;AmoBeleza;35,9;35,9
 14864589;pfc328313;13661936;www.submarino.com.br;2023-08-15 10:00:00;available;35,9;35,9;Beautybox;Beautybox;35,9;35,9
 14864589;pfc328313;13661937;www.shoptime.com.br;2023-08-15 12:00:00;available;35,9;35,9;Beautybox;Beautybox;35,9;35,9
 14864589;pfc328313;13660813;www.extra.com.br;2023-08-15 10:00:00;available;41,74;37,57;Olist;Olist;41,74;37,57
@@ -5786,16 +5777,6 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864610;pfc328329;13659039;www.americanas.com.br;2023-08-16 10:00:00;available;73,04;73,04;LKX;LKX;73,04;73,04
 14864610;pfc328329;14730244;www.shoptime.com.br;2023-08-16 12:00:00;available;73,04;73,04;LKX;LKX;73,04;73,04
 14864610;pfc328329;13905627;www.submarino.com.br;2023-08-16 10:00:00;available;73,04;73,04;LKX;LKX;73,04;73,04
-14864588;pfc328306;13655637;www.belezanaweb.com.br;2023-08-16 06:00:00;available;34,9;34,9;Amobeleza;Amobeleza;34,9;34,9
-14864588;pfc328306;13655637;www.belezanaweb.com.br;2023-08-16 06:00:00;available;34,9;34,9;Amobeleza;Beleza na Web;43,9;43,9
-14864588;pfc328306;13655637;www.belezanaweb.com.br;2023-08-16 06:00:00;available;34,9;34,9;Amobeleza;Evas Perfumaria;42,9;42,9
-14864588;pfc328306;13657631;www.amazon.com.br;2023-08-15 20:00:00;available;34,99;34,99;Athenas Cosméticos;Athenas Cosméticos;34,99;34,99
-14864588;pfc328306;13657631;www.amazon.com.br;2023-08-15 20:00:00;available;34,99;34,99;Athenas Cosméticos;Segredo da Cor;52,15;52,15
-14864588;pfc328306;13657631;www.amazon.com.br;2023-08-15 20:00:00;available;34,99;34,99;Athenas Cosméticos;SACOLAOCOM;49,9;49,9
-14864588;pfc328306;13658947;www.americanas.com.br;2023-08-15 18:00:00;available;46,09;46,09;SEGREDO DA COR;SEGREDO DA COR;46,09;46,09
-14864588;pfc328306;13661321;www.shoptime.com.br;2023-08-14 12:00:00;available;52,38;52,38;SEGREDO DA COR;SEGREDO DA COR;52,38;52,38
-14864588;pfc328306;13661320;www.submarino.com.br;2023-08-15 10:00:00;available;52,38;52,38;SEGREDO DA COR;SEGREDO DA COR;52,38;52,38
-14864588;pfc328306;13663441;www.magazineluiza.com.br;2023-08-16 12:00:00;available;57,73;57,73;Like Cosméticos;Like Cosméticos;57,73;57,73
 14864607;pfc328363;13662593;www.pontofrio.com.br;2023-08-15 12:00:00;available;212,65;191,38;Olist;Olist;212,65;191,38
 14864607;pfc328363;13660879;www.extra.com.br;2023-08-15 10:00:00;available;212,65;191,38;Olist;Olist;212,65;191,38
 14864607;pfc328363;13662592;www.casasbahia.com.br;2023-08-15 12:00:00;available;212,65;191,38;Olist;Olist;212,65;191,38
@@ -5840,6 +5821,25 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864624;pfc328344;12852535;www.submarino.com.br;2023-08-14 10:00:00;available;59,97;59,97;Olist RJ;LKX;73,04;73,04
 14864624;pfc328344;12852535;www.submarino.com.br;2023-08-14 10:00:00;available;59,97;59,97;Olist RJ;Like Cosméticos;66,72;63,38
 14864624;pfc328344;12852535;www.submarino.com.br;2023-08-14 10:00:00;available;59,97;59,97;Olist RJ;Olist;40,5;40,5
+14864609;pfc328361;12113916;www.amazon.com.br;2023-08-16 10:00:00;available;127,0;127,0;Athenas Cosméticos;Athenas Cosméticos;127,0;127,0
+14864609;pfc328361;13659151;www.americanas.com.br;2023-08-16 10:00:00;available;141,5;141,5;SAGULO COSMETICOS;SAGULO COSMETICOS;141,5;141,5
+14864609;pfc328361;13659151;www.americanas.com.br;2023-08-16 10:00:00;available;141,5;141,5;SAGULO COSMETICOS;POUBEL PERFUMARIA;149,99;149,99
+14864609;pfc328361;13659151;www.americanas.com.br;2023-08-16 10:00:00;available;141,5;141,5;SAGULO COSMETICOS;VIVA STORE;165,9;165,9
+14864609;pfc328361;12980817;www.americanas.com.br;2023-08-15 18:00:00;available;151,0;151,0;POUBEL PERFUMARIA;POUBEL PERFUMARIA;151,0;151,0
+14864609;pfc328361;12980817;www.americanas.com.br;2023-08-15 18:00:00;available;151,0;151,0;POUBEL PERFUMARIA;Beautybox;162,9;162,9
+14864609;pfc328361;13662534;www.casasbahia.com.br;2023-08-15 18:00:00;available;155,39;139,85;Olist;Olist;155,39;139,85
+14864609;pfc328361;13662535;www.pontofrio.com.br;2023-08-14 10:00:00;available;155,39;139,85;Olist;Olist;155,39;139,85
+14864609;pfc328361;13660877;www.extra.com.br;2023-08-15 10:00:00;available;155,39;139,85;Olist;Olist;155,39;139,85
+14864609;pfc328361;13662533;www.shoptime.com.br;2023-08-15 10:00:00;available;162,9;162,9;Beautybox;Beautybox;162,9;162,9
+14864609;pfc328361;13662533;www.shoptime.com.br;2023-08-15 10:00:00;available;162,9;162,9;Beautybox;POUBEL PERFUMARIA;151,0;151,0
+14864609;pfc328361;12852447;www.submarino.com.br;2023-08-14 10:00:00;available;162,9;143,35;Beautybox;Beautybox;162,9;143,35
+14864609;pfc328361;12852447;www.submarino.com.br;2023-08-14 10:00:00;available;162,9;143,35;Beautybox;POUBEL PERFUMARIA;151,0;151,0
+14864609;pfc328361;12852574;www.submarino.com.br;2023-08-14 10:00:00;available;165,9;165,9;VIVA STORE;VIVA STORE;165,9;165,9
+14864609;pfc328361;12852574;www.submarino.com.br;2023-08-14 10:00:00;available;165,9;165,9;VIVA STORE;POUBEL PERFUMARIA;149,99;149,99
+14864609;pfc328361;12852574;www.submarino.com.br;2023-08-14 10:00:00;available;165,9;165,9;VIVA STORE;SAGULO COSMETICOS;141,5;141,5
+14864609;pfc328361;17067393;www.shoptime.com.br;2023-08-16 10:00:00;available;165,9;165,9;VIVA STORE;VIVA STORE;165,9;165,9
+14864609;pfc328361;17067393;www.shoptime.com.br;2023-08-16 10:00:00;available;165,9;165,9;VIVA STORE;POUBEL PERFUMARIA;149,99;149,99
+14864609;pfc328361;17067393;www.shoptime.com.br;2023-08-16 10:00:00;available;165,9;165,9;VIVA STORE;SAGULO COSMETICOS;141,5;141,5
 14864616;pfc328370;13384137;www.drogasil.com.br;2023-08-16 10:00:00;available;186,4;186,4;DROGASIL;DROGASIL;186,4;186,4
 14864616;pfc328370;13659178;www.americanas.com.br;2023-08-16 08:00:00;available;207,9;207,9;AMOBELEZA;AMOBELEZA;207,9;207,9
 14864616;pfc328370;13659178;www.americanas.com.br;2023-08-16 08:00:00;available;207,9;207,9;AMOBELEZA;BELEZA NO SITE;210,0;210,0
@@ -5964,7 +5964,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864614;pfc328331;13662301;www.submarino.com.br;2023-08-16 10:00:00;available;44,9;44,9;BELEZA NO SITE;BELEZA NO SITE;44,9;44,9
 14864614;pfc328331;13659043;www.americanas.com.br;2023-08-16 10:00:00;available;44,9;44,9;BELEZA NO SITE;BELEZA NO SITE;44,9;44,9
 14864614;pfc328331;13663527;www.magazineluiza.com.br;2023-08-16 12:00:00;available;48,38;45,96;Websalão;Websalão;48,38;45,96
-14864619;pfc328338;13663549;www.magazineluiza.com.br;2023-08-16 13:00:00;available;48,38;45,96;Websalão;Websalão;48,38;45,96
+14864619;pfc328338;13663549;www.magazineluiza.com.br;2023-08-16 14:00:00;available;48,38;45,96;Websalão;Websalão;48,38;45,96
 14864619;pfc328338;17697862;www.extra.com.br;2023-08-15 10:00:00;available;78,81;70,93;Olist Store;Olist Store;78,81;70,93
 14864619;pfc328338;17839142;www.casasbahia.com.br;2023-08-15 18:00:00;available;78,81;70,93;Olist Store;Olist Store;78,81;70,93
 14864619;pfc328338;17839143;www.pontofrio.com.br;2023-08-15 10:00:00;available;78,81;70,93;Olist Store;Olist Store;78,81;70,93
@@ -6113,7 +6113,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864593;pfc328315;13658976;www.americanas.com.br;2023-08-15 18:00:00;available;44,9;44,9;BELEZA NO SITE;BELEZA NO SITE;44,9;44,9
 14864593;pfc328315;12851716;www.submarino.com.br;2023-08-14 18:00:00;available;44,9;44,9;BELEZA NO SITE;BELEZA NO SITE;44,9;44,9
 14864593;pfc328315;17068503;www.shoptime.com.br;2023-08-15 12:00:00;available;44,9;44,9;BELEZA NO SITE;BELEZA NO SITE;44,9;44,9
-14864593;pfc328315;17691866;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;45,99;45,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;45,99;45,99
+14864593;pfc328315;17691866;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;45,99;45,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;45,99;45,99
 14864621;pfc328336;13659069;www.americanas.com.br;2023-08-15 18:00:00;available;35,99;35,99;SOPHIA COSMETICOS;SOPHIA COSMETICOS;35,99;35,99
 14864621;pfc328336;13659069;www.americanas.com.br;2023-08-15 18:00:00;available;35,99;35,99;SOPHIA COSMETICOS;SAGULO COSMETICOS;37,99;37,99
 14864621;pfc328336;13659069;www.americanas.com.br;2023-08-15 18:00:00;available;35,99;35,99;SOPHIA COSMETICOS;POUBEL PERFUMARIA;39,99;39,99
@@ -6129,7 +6129,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864621;pfc328336;12851958;www.submarino.com.br;2023-08-14 10:00:00;available;39,99;39,99;POUBEL PERFUMARIA;POUBEL PERFUMARIA;39,99;39,99
 14864621;pfc328336;12851958;www.submarino.com.br;2023-08-14 10:00:00;available;39,99;39,99;POUBEL PERFUMARIA;SOPHIA COSMETICOS;35,99;35,99
 14864621;pfc328336;12851958;www.submarino.com.br;2023-08-14 10:00:00;available;39,99;39,99;POUBEL PERFUMARIA;SAGULO COSMETICOS;37,99;37,99
-14864621;pfc328336;13655420;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;45,99;45,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;45,99;45,99
+14864621;pfc328336;13655420;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;45,99;45,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;45,99;45,99
 14864621;pfc328336;13657648;www.amazon.com.br;2023-08-15 10:00:00;available;52,15;52,15;Segredo da Cor;Segredo da Cor;52,15;52,15
 14864621;pfc328336;17697860;www.extra.com.br;2023-08-15 18:00:00;available;78,81;70,93;Olist Store;Olist Store;78,81;70,93
 14864621;pfc328336;17839111;www.casasbahia.com.br;2023-08-14 12:00:00;available;78,81;70,93;Olist Store;Olist Store;78,81;70,93
@@ -6333,6 +6333,37 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864596;pfc328349;13659118;www.americanas.com.br;2023-08-15 18:00:00;available;73,04;73,04;LKX;LKX;73,04;73,04
 14864680;pfc328399;11186333;www.amazon.com.br;2023-08-16 09:00:00;available;170,0;170,0;Athenas Cosméticos;Athenas Cosméticos;170,0;170,0
 14864680;pfc328399;11186333;www.amazon.com.br;2023-08-16 09:00:00;available;170,0;170,0;Athenas Cosméticos;Olist;204,82;204,82
+14864650;pfc328372;13384139;www.drogasil.com.br;2023-08-16 10:00:00;available;186,4;186,4;DROGASIL;DROGASIL;186,4;186,4
+14864650;pfc328372;15306919;www.amazon.com.br;2023-08-15 21:00:00;available;224,42;224,42;Amazon.com.br;Amazon.com.br;224,42;224,42
+14864650;pfc328372;15306919;www.amazon.com.br;2023-08-15 21:00:00;available;224,42;224,42;Amazon.com.br;Um Cheiro;212,0;212,0
+14864650;pfc328372;15306919;www.amazon.com.br;2023-08-15 21:00:00;available;224,42;224,42;Amazon.com.br;W/S DIGITAL;219,7;219,7
+14864650;pfc328372;15306919;www.amazon.com.br;2023-08-15 21:00:00;available;224,42;224,42;Amazon.com.br;Epoca Cosmeticos;280,9;280,9
+14864650;pfc328372;15306919;www.amazon.com.br;2023-08-15 21:00:00;available;224,42;224,42;Amazon.com.br;Athenas Cosméticos;267,0;267,0
+14864650;pfc328372;15306919;www.amazon.com.br;2023-08-15 21:00:00;available;224,42;224,42;Amazon.com.br;Clio Cosméticos;299,9;299,9
+14864650;pfc328372;15306919;www.amazon.com.br;2023-08-15 21:00:00;available;224,42;224,42;Amazon.com.br;Olist;337,91;337,91
+14864650;pfc328372;15139934;www.magazineluiza.com.br;2023-08-16 12:00:00;available;271,9;271,9;AmoBeleza;AmoBeleza;271,9;271,9
+14864650;pfc328372;13659186;www.americanas.com.br;2023-08-15 18:00:00;available;284,08;284,08;Like Cosméticos;Like Cosméticos;284,08;284,08
+14864650;pfc328372;13659187;www.americanas.com.br;2023-08-15 18:00:00;available;289,9;289,9;SOPHIA COSMETICOS;SOPHIA COSMETICOS;289,9;289,9
+14864650;pfc328372;13659187;www.americanas.com.br;2023-08-15 18:00:00;available;289,9;289,9;SOPHIA COSMETICOS;Like Cosméticos;299,04;284,08
+14864650;pfc328372;13659187;www.americanas.com.br;2023-08-15 18:00:00;available;289,9;289,9;SOPHIA COSMETICOS;POUBEL PERFUMARIA;299,99;299,99
+14864650;pfc328372;13659187;www.americanas.com.br;2023-08-15 18:00:00;available;289,9;289,9;SOPHIA COSMETICOS;SAGULO COSMETICOS;299,99;299,99
+14864650;pfc328372;12855337;www.submarino.com.br;2023-08-15 10:00:00;available;299,04;284,08;Like Cosméticos;Like Cosméticos;299,04;284,08
+14864650;pfc328372;12855337;www.submarino.com.br;2023-08-15 10:00:00;available;299,04;284,08;Like Cosméticos;Olist;356,5;356,5
+14864650;pfc328372;17068614;www.shoptime.com.br;2023-08-14 12:00:00;available;299,04;284,08;Like Cosméticos;Like Cosméticos;299,04;284,08
+14864650;pfc328372;17068614;www.shoptime.com.br;2023-08-14 12:00:00;available;299,04;284,08;Like Cosméticos;Olist;356,5;356,5
+14864650;pfc328372;12851822;www.submarino.com.br;2023-08-14 18:00:00;available;299,04;284,08;Like Cosméticos;Like Cosméticos;299,04;284,08
+14864650;pfc328372;12980800;www.americanas.com.br;2023-08-15 19:00:00;available;299,04;284,08;Like Cosméticos;Like Cosméticos;299,04;284,08
+14864650;pfc328372;12980800;www.americanas.com.br;2023-08-15 19:00:00;available;299,04;284,08;Like Cosméticos;Olist;356,5;356,5
+14864650;pfc328372;17068613;www.shoptime.com.br;2023-08-14 12:00:00;available;299,04;284,08;Like Cosméticos;Like Cosméticos;299,04;284,08
+14864650;pfc328372;13662523;www.shoptime.com.br;2023-08-15 10:00:00;available;299,99;299,99;POUBEL PERFUMARIA;POUBEL PERFUMARIA;299,99;299,99
+14864650;pfc328372;13662523;www.shoptime.com.br;2023-08-15 10:00:00;available;299,99;299,99;POUBEL PERFUMARIA;SOPHIA COSMETICOS;289,9;289,9
+14864650;pfc328372;13662523;www.shoptime.com.br;2023-08-15 10:00:00;available;299,99;299,99;POUBEL PERFUMARIA;Like Cosméticos;299,04;284,08
+14864650;pfc328372;13662523;www.shoptime.com.br;2023-08-15 10:00:00;available;299,99;299,99;POUBEL PERFUMARIA;SAGULO COSMETICOS;299,99;299,99
+14864650;pfc328372;12849595;www.submarino.com.br;2023-08-14 18:00:00;available;299,99;299,99;POUBEL PERFUMARIA;POUBEL PERFUMARIA;299,99;299,99
+14864650;pfc328372;12849595;www.submarino.com.br;2023-08-14 18:00:00;available;299,99;299,99;POUBEL PERFUMARIA;SOPHIA COSMETICOS;289,9;289,9
+14864650;pfc328372;12849595;www.submarino.com.br;2023-08-14 18:00:00;available;299,99;299,99;POUBEL PERFUMARIA;Like Cosméticos;299,04;284,08
+14864650;pfc328372;12849595;www.submarino.com.br;2023-08-14 18:00:00;available;299,99;299,99;POUBEL PERFUMARIA;SAGULO COSMETICOS;299,99;299,99
+14864650;pfc328372;17697295;www.soneda.com.br;2023-08-16 12:00:00;available;326,99;326,99;Soneda;Soneda;326,99;326,99
 14864676;pfc328429;13657679;www.amazon.com.br;2023-08-16 05:00:00;available;79,9;79,9;Center Beauty;Center Beauty;79,9;79,9
 14864676;pfc328429;297094;www.belezanaweb.com.br;2023-08-16 07:00:00;available;86,9;86,9;Beleza na Web;Beleza na Web;86,9;86,9
 14864653;pfc328405;13659300;www.americanas.com.br;2023-08-16 10:00:00;available;57,93;57,93;Olist;Olist;57,93;57,93
@@ -6709,7 +6740,6 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864674;pfc328389;17066596;www.submarino.com.br;2023-08-14 10:00:00;available;159,0;159,0;POUBEL PERFUMARIA;POUBEL PERFUMARIA;159,0;159,0
 14864674;pfc328389;13384003;www.drogasil.com.br;2023-08-16 10:00:00;available;186,4;186,4;DROGASIL;DROGASIL;186,4;186,4
 14864674;pfc328389;12458784;www.drogaraia.com.br;2023-08-16 10:00:00;available;186,4;186,4;DROGARAIA;DROGARAIA;186,4;186,4
-14864686;pfc328441;13657685;www.amazon.com.br;2023-08-16 10:00:00;available;115,0;115,0;FAMA COSMETICOS;FAMA COSMETICOS;115,0;115,0
 14864646;pfc328400;16954192;www.drogaraia.com.br;2023-08-16 12:00:00;available;186,4;186,4;DROGARAIA;DROGARAIA;186,4;186,4
 14864646;pfc328400;16573759;www.drogasil.com.br;2023-08-16 10:00:00;available;186,4;186,4;DROGASIL;DROGASIL;186,4;186,4
 14864646;pfc328400;12138281;www.amazon.com.br;2023-08-16 10:00:00;available;199,0;199,0;Athenas Cosméticos;Athenas Cosméticos;199,0;199,0
@@ -7487,19 +7517,11 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864697;pfc328415;15481999;www.shoptime.com.br;2023-08-14 18:00:00;available;214,8;214,8;Spazio Vivale Cosméticos;Spazio Vivale Cosméticos;214,8;214,8
 14864697;pfc328415;13659371;www.americanas.com.br;2023-08-15 18:00:00;available;214,8;214,8;Spazio Vivale Cosméticos;Spazio Vivale Cosméticos;214,8;214,8
 14864697;pfc328415;15479436;www.submarino.com.br;2023-08-15 10:00:00;available;214,8;214,8;Spazio Vivale Cosméticos;Spazio Vivale Cosméticos;214,8;214,8
-14864692;pfc328449;17695320;www.websalao.com.br;2023-08-16 12:00:00;available;83,35;83,35;websalao;websalao;83,35;83,35
-14864692;pfc328449;15484639;www.casasbahia.com.br;2023-08-16 10:00:00;available;91,69;91,69;Web Salão;Web Salão;91,69;91,69
-14864692;pfc328449;17266065;www.pontofrio.com.br;2023-08-15 12:00:00;available;91,69;91,69;Web Salão;Web Salão;91,69;91,69
-14864692;pfc328449;13664809;www.extra.com.br;2023-08-15 18:00:00;available;91,69;91,69;Web Salão;Web Salão;91,69;91,69
-14864692;pfc328449;2219865;www.belezanaweb.com.br;2023-08-16 04:00:00;available;91,99;91,99;Enamore Beleza Cosmética;Enamore Beleza Cosmética;91,99;91,99
-14864692;pfc328449;2219865;www.belezanaweb.com.br;2023-08-16 04:00:00;available;91,99;91,99;Enamore Beleza Cosmética;Evas Perfumaria;91,9;91,9
-14864692;pfc328449;2219865;www.belezanaweb.com.br;2023-08-16 04:00:00;available;91,99;91,99;Enamore Beleza Cosmética;Beleza na Web;119,9;119,9
-14864692;pfc328449;17067059;www.pontofrio.com.br;2023-08-15 12:00:00;available;97,65;87,88;Olist;Olist;97,65;87,88
-14864692;pfc328449;17067058;www.casasbahia.com.br;2023-08-16 10:00:00;available;97,65;87,88;Olist;Olist;97,65;87,88
-14864692;pfc328449;13664811;www.extra.com.br;2023-08-15 18:00:00;available;97,65;87,88;Olist;Olist;97,65;87,88
-14864692;pfc328449;13667913;www.submarino.com.br;2023-08-15 10:00:00;available;139,0;139,0;UM Beauty Store;UM Beauty Store;139,0;139,0
-14864692;pfc328449;13667914;www.shoptime.com.br;2023-08-15 10:00:00;available;139,0;139,0;UM Beauty Store;UM Beauty Store;139,0;139,0
-14864692;pfc328449;13664272;www.americanas.com.br;2023-08-15 18:00:00;available;139,0;139,0;UM Beauty Store;UM Beauty Store;139,0;139,0
+14864721;pfc328443;11570511;www.belezanaweb.com.br;2023-08-16 07:00:00;available;116,9;116,9;Beleza na Web;Beleza na Web;116,9;116,9
+14864721;pfc328443;11570511;www.belezanaweb.com.br;2023-08-16 07:00:00;available;116,9;116,9;Beleza na Web;Evas Perfumaria;109,9;109,9
+14864721;pfc328443;11570511;www.belezanaweb.com.br;2023-08-16 07:00:00;available;116,9;116,9;Beleza na Web;Enamore Beleza Cosmética;118,99;118,99
+14864721;pfc328443;14017537;www.americanas.com.br;2023-08-15 18:00:00;available;199,0;199,0;UM Beauty Store;UM Beauty Store;199,0;199,0
+14864721;pfc328443;14019312;www.shoptime.com.br;2023-08-15 12:00:00;available;199,0;199,0;UM Beauty Store;UM Beauty Store;199,0;199,0
 14864722;pfc328438;17695314;www.websalao.com.br;2023-08-16 12:00:00;available;85,27;85,27;websalao;websalao;85,27;85,27
 14864722;pfc328438;11727071;www.americanas.com.br;2023-08-15 18:00:00;available;88,99;88,99;SAGULO COSMETICOS;SAGULO COSMETICOS;88,99;88,99
 14864722;pfc328438;11727071;www.americanas.com.br;2023-08-15 18:00:00;available;88,99;88,99;SAGULO COSMETICOS;POUBEL PERFUMARIA;102,99;102,99
@@ -8218,136 +8240,6 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864743;pfc328500;17067638;www.submarino.com.br;2023-08-14 10:00:00;available;165,0;165,0;POUBEL PERFUMARIA;SOPHIA COSMETICOS;163,5;163,5
 14864743;pfc328500;13660982;www.extra.com.br;2023-08-15 10:00:00;available;187,08;187,08;SEGREDO DA COR;SEGREDO DA COR;187,08;187,08
 14864743;pfc328500;20233669;www.pontofrio.com.br;2023-08-15 12:00:00;available;187,08;187,08;SEGREDO DA COR;SEGREDO DA COR;187,08;187,08
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Olist Store;114,87;114,87
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Olist RJ;121,86;121,86
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;WS DIGITAL;133,58;133,58
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;KING COSMÉTICOS;139,9;139,9
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Olist;140,93;140,93
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;AMOBELEZA;147,9;147,9
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Evas Perfumaria;148,99;148,99
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Beautybox;149,9;149,9
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Doce Beleza Cosméticos;151,9;151,9
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;SAGULO COSMETICOS;152,2;152,2
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Bonitas na Web;153,89;153,89
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;finch technology;154,07;154,07
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Uau Cosméticos;154,07;154,07
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Makes Import;155,99;155,99
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;POUBEL PERFUMARIA;156,2;156,2
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;SEGREDO DA COR;156,67;156,67
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Club Hair Luxo;159,0;159,0
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Cosmelticos;159,0;159,0
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;LA CREME MODA & BELEZA;159,9;159,9
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Clio Cosméticos;159,9;159,9
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;SOPHIA COSMETICOS;159,99;159,99
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;BELEZA NO SITE;171,9;171,9
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;NewsProBeleza;185,0;185,0
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Shine Shop Cosméticos;189,8;189,8
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Olist SP;198,81;198,81
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Sofí Cosméticos;215,0;215,0
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;CONDESSA COSMÉTICO E PERFUMARI;219,59;219,59
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;Duda Makeup;247,8;247,8
-14864768;pfc328524;10730882;www.americanas.com.br;2023-08-16 06:00:00;available;114,87;114,87;Olist Store;UM Beauty Store;319,0;319,0
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;HAIRPRO;118,9;118,9
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;"Luz Cosm&Atilde;&copy;ticos";119,0;119,0
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;Beauty Prime;122,9;122,9
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;"Enamore Beleza Cosm&Atilde;&copy;tica";124,99;124,99
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;Evas Perfumaria;129,9;129,9
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;Amobeleza;143,9;143,9
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;Micka Beauty;139,9;139,9
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;Renata Tieme Cosmeticos;139,9;139,9
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;Beleza na Web;162,9;162,9
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;"Passi Cosm&Atilde;&copy;ticos";152,47;152,47
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;Concept Beauty;163,0;163,0
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;"Perfumaria Sumir&Atilde;&ordf;";179,27;179,27
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;EuFina;189,22;189,22
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;Kassio Perfumaria;193,0;193,0
-14864768;pfc328524;10805303;www.belezanaweb.com.br;2023-08-16 12:00:00;available;118,9;118,9;HAIRPRO;"Cosm&Atilde;&copy;ticos LC";208,58;208,58
-14864768;pfc328524;11155449;www.extra.com.br;2023-08-15 00:00:00;available;133,58;133,58;Web Salão;Web Salão;133,58;133,58
-14864768;pfc328524;11155449;www.extra.com.br;2023-08-15 00:00:00;available;133,58;133,58;Web Salão;FABIANO JOSE GANDRA EIRELI;138,24;138,24
-14864768;pfc328524;11155449;www.extra.com.br;2023-08-15 00:00:00;available;133,58;133,58;Web Salão;RD COSMETICOS;134,9;134,9
-14864768;pfc328524;11155449;www.extra.com.br;2023-08-15 00:00:00;available;133,58;133,58;Web Salão;CONDESSA COSMETICOS E PERFUMARIA;180,12;180,12
-14864768;pfc328524;11155680;www.casasbahia.com.br;2023-08-16 04:00:00;available;133,58;133,58;Web Salão;Web Salão;133,58;133,58
-14864768;pfc328524;11155680;www.casasbahia.com.br;2023-08-16 04:00:00;available;133,58;133,58;Web Salão;FABIANO JOSE GANDRA EIRELI;138,24;138,24
-14864768;pfc328524;11155680;www.casasbahia.com.br;2023-08-16 04:00:00;available;133,58;133,58;Web Salão;RD COSMETICOS;134,9;134,9
-14864768;pfc328524;11155680;www.casasbahia.com.br;2023-08-16 04:00:00;available;133,58;133,58;Web Salão;CONDESSA COSMETICOS E PERFUMARIA;180,12;180,12
-14864768;pfc328524;11155681;www.pontofrio.com.br;2023-08-16 12:00:00;available;138,24;138,24;FABIANO JOSE GANDRA EIRELI;FABIANO JOSE GANDRA EIRELI;138,24;138,24
-14864768;pfc328524;18421200;www.shoptime.com.br;2023-08-14 18:00:00;available;141,9;141,9;Produtos De Salão;Produtos De Salão;141,9;141,9
-14864768;pfc328524;13659585;www.americanas.com.br;2023-08-15 18:00:00;available;159,8;159,8;Spazio Vivale Cosméticos;Spazio Vivale Cosméticos;159,8;159,8
-14864768;pfc328524;13659585;www.americanas.com.br;2023-08-15 18:00:00;available;159,8;159,8;Spazio Vivale Cosméticos;BOLHA DE SABAO COSMETICOS;199,95;199,95
-14864768;pfc328524;15482018;www.shoptime.com.br;2023-08-15 10:00:00;available;159,8;159,8;Spazio Vivale Cosméticos;Spazio Vivale Cosméticos;159,8;159,8
-14864768;pfc328524;15482018;www.shoptime.com.br;2023-08-15 10:00:00;available;159,8;159,8;Spazio Vivale Cosméticos;BOLHA DE SABAO COSMETICOS;199,95;199,95
-14864768;pfc328524;15479474;www.submarino.com.br;2023-08-16 12:00:00;available;159,8;159,8;Spazio Vivale Cosméticos;Spazio Vivale Cosméticos;159,8;159,8
-14864768;pfc328524;15479474;www.submarino.com.br;2023-08-16 12:00:00;available;159,8;159,8;Spazio Vivale Cosméticos;BOLHA DE SABAO COSMETICOS;199,95;199,95
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;SOPHIA COSMETICOS;159,99;159,99
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;UM Beauty Store;319,0;319,0
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Club Hair Luxo;159,0;159,0
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;AMOBELEZA;147,9;147,9
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;SAGULO COSMETICOS;152,2;152,2
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Olist RJ;121,86;121,86
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;POUBEL PERFUMARIA;156,2;156,2
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Evas Perfumaria;148,99;148,99
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;CONDESSA COSMÉTICO E PERFUMARI;219,59;219,59
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;finch technology;154,07;154,07
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Bonitas na Web;153,89;153,89
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Doce Beleza Cosméticos;151,9;151,9
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Olist SP;198,81;198,81
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Makes Import;155,99;155,99
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Olist;140,93;140,93
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Duda Makeup;247,8;247,8
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Olist Store;114,87;114,87
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;LA CREME MODA & BELEZA;159,9;159,9
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Shine Shop Cosméticos;189,8;189,8
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;NewsProBeleza;185,0;185,0
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;BELEZA NO SITE;171,9;171,9
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Beautybox;149,9;149,9
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Uau Cosméticos;154,07;154,07
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;KING COSMÉTICOS;139,9;139,9
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;WS DIGITAL;133,58;133,58
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Clio Cosméticos;159,9;159,9
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Cosmelticos;159,0;159,0
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;Sofí Cosméticos;215,0;215,0
-14864768;pfc328524;13089557;www.submarino.com.br;2023-08-15 20:00:00;available;159,99;159,99;SOPHIA COSMETICOS;SEGREDO DA COR;156,67;156,67
-14864768;pfc328524;13661032;www.extra.com.br;2023-08-15 10:00:00;available;160,17;160,17;SEGREDO DA COR;SEGREDO DA COR;160,17;160,17
-14864768;pfc328524;20233682;www.casasbahia.com.br;2023-08-16 12:00:00;available;160,17;160,17;SEGREDO DA COR;SEGREDO DA COR;160,17;160,17
-14864768;pfc328524;20233683;www.pontofrio.com.br;2023-08-15 12:00:00;available;160,17;160,17;SEGREDO DA COR;SEGREDO DA COR;160,17;160,17
-14864768;pfc328524;14730713;www.shoptime.com.br;2023-08-14 18:00:00;available;161,8;161,8;Spazio Vivale Cosméticos;Spazio Vivale Cosméticos;161,8;161,8
-14864768;pfc328524;13659584;www.americanas.com.br;2023-08-15 18:00:00;available;161,8;161,8;Spazio Vivale Cosméticos;Spazio Vivale Cosméticos;161,8;161,8
-14864768;pfc328524;15479519;www.submarino.com.br;2023-08-16 12:00:00;available;161,8;161,8;Spazio Vivale Cosméticos;Spazio Vivale Cosméticos;161,8;161,8
-14864768;pfc328524;16572981;www.drogasil.com.br;2023-08-16 10:00:00;available;166,9;166,9;DROGASIL;DROGASIL;166,9;166,9
-14864768;pfc328524;14731740;www.shoptime.com.br;2023-08-14 18:00:00;available;174,04;174,04;Spazio Vivale Cosméticos;Spazio Vivale Cosméticos;174,04;174,04
-14864768;pfc328524;15479477;www.submarino.com.br;2023-08-16 12:00:00;available;174,04;174,04;Spazio Vivale Cosméticos;Spazio Vivale Cosméticos;174,04;174,04
-14864768;pfc328524;13659578;www.americanas.com.br;2023-08-15 18:00:00;available;174,04;174,04;Spazio Vivale Cosméticos;Spazio Vivale Cosméticos;174,04;174,04
-14864768;pfc328524;15482031;www.shoptime.com.br;2023-08-15 10:00:00;available;189,8;189,8;Shine Shop Cosméticos;Shine Shop Cosméticos;189,8;189,8
-14864768;pfc328524;15010553;www.submarino.com.br;2023-08-16 12:00:00;available;189,8;189,8;Shine Shop Cosméticos;Shine Shop Cosméticos;189,8;189,8
-14864768;pfc328524;13309678;www.americanas.com.br;2023-08-16 11:00:00;available;189,8;189,8;Shine Shop Cosméticos;Shine Shop Cosméticos;189,8;189,8
-14864768;pfc328524;15479473;www.submarino.com.br;2023-08-16 12:00:00;available;189,8;189,8;Shine Shop Cosméticos;Shine Shop Cosméticos;189,8;189,8
-14864768;pfc328524;14730582;www.shoptime.com.br;2023-08-14 18:00:00;available;189,8;189,8;Shine Shop Cosméticos;Shine Shop Cosméticos;189,8;189,8
-14864768;pfc328524;13089499;www.americanas.com.br;2023-08-16 11:00:00;available;189,8;189,8;Shine Shop Cosméticos;Shine Shop Cosméticos;189,8;189,8
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;UM Beauty Store;319,0;319,0
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Club Hair Luxo;159,0;159,0
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;AMOBELEZA;147,9;147,9
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Olist RJ;121,86;121,86
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Evas Perfumaria;148,99;148,99
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;CONDESSA COSMÉTICO E PERFUMARI;219,59;219,59
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;finch technology;154,07;154,07
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Bonitas na Web;153,89;153,89
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Doce Beleza Cosméticos;151,9;151,9
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Olist SP;198,81;198,81
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Makes Import;155,99;155,99
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Olist;140,93;140,93
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Duda Makeup;247,8;247,8
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Olist Store;114,87;114,87
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Shine Shop Cosméticos;189,8;189,8
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;NewsProBeleza;185,0;185,0
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;BELEZA NO SITE;171,9;171,9
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Beautybox;149,9;149,9
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Uau Cosméticos;154,07;154,07
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;KING COSMÉTICOS;139,9;139,9
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;WS DIGITAL;133,58;133,58
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Clio Cosméticos;159,9;159,9
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Cosmelticos;159,0;159,0
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;Sofí Cosméticos;215,0;215,0
-14864768;pfc328524;13088062;www.shoptime.com.br;2023-08-16 12:00:00;available;319,0;319,0;UM Beauty Store;SEGREDO DA COR;156,67;156,67
 14864771;pfc328492;12915519;www.extra.com.br;2023-08-15 10:00:00;available;184,9;184,9;RD COSMETICOS;RD COSMETICOS;184,9;184,9
 14864771;pfc328492;13660975;www.extra.com.br;2023-08-15 10:00:00;available;198,78;198,78;SEGREDO DA COR;SEGREDO DA COR;198,78;198,78
 14864771;pfc328492;20233691;www.casasbahia.com.br;2023-08-15 10:00:00;available;198,78;198,78;SEGREDO DA COR;SEGREDO DA COR;198,78;198,78
@@ -9758,7 +9650,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864792;pfc328519;13309820;www.americanas.com.br;2023-08-16 13:00:00;available;139,8;139,8;Shine Shop Cosméticos;Shine Shop Cosméticos;139,8;139,8
 14864792;pfc328519;13309819;www.americanas.com.br;2023-08-16 13:00:00;available;139,8;139,8;Shine Shop Cosméticos;Shine Shop Cosméticos;139,8;139,8
 14864792;pfc328519;13662664;www.shoptime.com.br;2023-08-14 12:00:00;available;139,8;139,8;Shine Shop Cosméticos;Shine Shop Cosméticos;139,8;139,8
-14864815;pfc328572;16070292;www.ikesaki.com.br;2023-08-16 13:00:00;available;62,9;62,9;Ikesaki;Ikesaki;62,9;62,9
+14864815;pfc328572;16070292;www.ikesaki.com.br;2023-08-16 14:00:00;available;62,9;62,9;Ikesaki;Ikesaki;62,9;62,9
 14864815;pfc328572;9465575;www.belezanaweb.com.br;2023-08-16 12:00:00;available;141,9;141,9;Beleza na Web;Beleza na Web;141,9;141,9
 14864815;pfc328572;9465575;www.belezanaweb.com.br;2023-08-16 12:00:00;available;141,9;141,9;Beleza na Web;Doce Beleza;134,9;134,9
 14864815;pfc328572;9465575;www.belezanaweb.com.br;2023-08-16 12:00:00;available;141,9;141,9;Beleza na Web;Evas Perfumaria;133,9;133,9
@@ -12066,19 +11958,6 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864864;pfc328624;13034057;www.americanas.com.br;2023-08-15 18:00:00;available;2319,0;2319,0;Club Hair Luxo;Club Hair Luxo;2319,0;2319,0
 14864864;pfc328624;12849794;www.submarino.com.br;2023-08-14 18:00:00;available;2319,0;2319,0;Club Hair Luxo;Club Hair Luxo;2319,0;2319,0
 14864864;pfc328624;17080766;www.shoptime.com.br;2023-08-13 18:00:00;available;2319,0;2319,0;Club Hair Luxo;Club Hair Luxo;2319,0;2319,0
-14864866;pfc328591;11725057;www.amazon.com.br;2023-08-15 19:00:00;available;44,9;44,9;Aê COSMETICOS PROFISSIONAL;Aê COSMETICOS PROFISSIONAL;44,9;44,9
-14864866;pfc328591;11725057;www.amazon.com.br;2023-08-15 19:00:00;available;44,9;44,9;Aê COSMETICOS PROFISSIONAL;AMOBELEZA;54,9;54,9
-14864866;pfc328591;11725057;www.amazon.com.br;2023-08-15 19:00:00;available;44,9;44,9;Aê COSMETICOS PROFISSIONAL;Athenas Cosméticos;69,0;69,0
-14864866;pfc328591;11725057;www.amazon.com.br;2023-08-15 19:00:00;available;44,9;44,9;Aê COSMETICOS PROFISSIONAL;EVOLUTION HAIR COSMÉTICOS;52,2;52,2
-14864866;pfc328591;11725057;www.amazon.com.br;2023-08-15 19:00:00;available;44,9;44,9;Aê COSMETICOS PROFISSIONAL;Athenas Cosméticos;58,0;58,0
-14864866;pfc328591;11725057;www.amazon.com.br;2023-08-15 19:00:00;available;44,9;44,9;Aê COSMETICOS PROFISSIONAL;Center Beauty;55,9;55,9
-14864866;pfc328591;11725057;www.amazon.com.br;2023-08-15 19:00:00;available;44,9;44,9;Aê COSMETICOS PROFISSIONAL;FAH PAES COSMETICOS 2;68,9;68,9
-14864866;pfc328591;11725057;www.amazon.com.br;2023-08-15 19:00:00;available;44,9;44,9;Aê COSMETICOS PROFISSIONAL;Beleza na Web Oficial;93,9;93,9
-14864866;pfc328591;11725057;www.amazon.com.br;2023-08-15 19:00:00;available;44,9;44,9;Aê COSMETICOS PROFISSIONAL;Perfumaria Sumirê;99,86;99,86
-14864866;pfc328591;13664961;www.extra.com.br;2023-08-15 10:00:00;available;63,88;57,49;Olist;Olist;63,88;57,49
-14864866;pfc328591;13667917;www.casasbahia.com.br;2023-08-15 12:00:00;available;63,88;57,49;Olist;Olist;63,88;57,49
-14864866;pfc328591;13667918;www.pontofrio.com.br;2023-08-14 10:00:00;available;63,88;57,49;Olist;Olist;63,88;57,49
-14864866;pfc328591;13655507;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;67,99;67,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;67,99;67,99
 14864878;pfc328640;11186324;www.amazon.com.br;2023-08-15 20:00:00;available;179,8;179,8;FAH PAES COSMETICOS 2;FAH PAES COSMETICOS 2;179,8;179,8
 14864878;pfc328640;17698004;www.dannycosmeticos.com.br;2023-08-16 12:00:00;available;191,99;191,99;Danny Cosméticos;Danny Cosméticos;191,99;191,99
 14864878;pfc328640;17697372;www.lojasrede.com.br;2023-08-16 12:00:00;available;229,9;229,9;Lojas REDE;Lojas REDE;229,9;229,9
@@ -12744,7 +12623,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864928;pfc328689;12918103;www.casasbahia.com.br;2023-08-15 18:00:00;available;169,9;169,9;RD COSMETICOS;Web Salão;15111,0;15111,0
 14864928;pfc328689;12915547;www.extra.com.br;2023-08-16 10:00:00;available;169,9;169,9;RD COSMETICOS;RD COSMETICOS;169,9;169,9
 14864928;pfc328689;12915547;www.extra.com.br;2023-08-16 10:00:00;available;169,9;169,9;RD COSMETICOS;Web Salão;15111,0;15111,0
-14864928;pfc328689;15928461;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;169,99;169,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;169,99;169,99
+14864928;pfc328689;15928461;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;169,99;169,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;169,99;169,99
 14864928;pfc328689;13662191;www.shoptime.com.br;2023-08-15 12:00:00;available;199,0;199,0;UM Beauty Store;UM Beauty Store;199,0;199,0
 14864928;pfc328689;13662190;www.submarino.com.br;2023-08-15 10:00:00;available;199,0;199,0;UM Beauty Store;UM Beauty Store;199,0;199,0
 14864928;pfc328689;13660029;www.americanas.com.br;2023-08-16 13:00:00;available;199,0;199,0;UM Beauty Store;UM Beauty Store;199,0;199,0
@@ -13215,7 +13094,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864978;pfc328742;11713619;www.belezanaweb.com.br;2023-08-16 04:00:00;available;29,9;29,9;Beleza na Web;Beleza na Web;29,9;29,9
 14864978;pfc328742;13384801;www.drogasil.com.br;2023-08-16 10:00:00;available;31,92;31,92;DROGASIL;DROGASIL;31,92;31,92
 14864978;pfc328742;13652479;www.drogaraia.com.br;2023-08-16 12:00:00;available;31,92;31,92;DROGARAIA;DROGARAIA;31,92;31,92
-14864988;pfc328719;15979293;www.magazineluiza.com.br;2023-08-16 13:00:00;available;27,9;27,9;Época Cosméticos Perfumaria;Época Cosméticos Perfumaria;27,9;27,9
+14864988;pfc328719;15979293;www.magazineluiza.com.br;2023-08-16 14:00:00;available;27,9;27,9;Época Cosméticos Perfumaria;Época Cosméticos Perfumaria;27,9;27,9
 14864988;pfc328719;13384795;www.drogasil.com.br;2023-08-16 10:00:00;available;31,92;31,92;DROGASIL;DROGASIL;31,92;31,92
 14864988;pfc328719;13652529;www.drogaraia.com.br;2023-08-16 10:00:00;available;31,92;31,92;DROGARAIA;DROGARAIA;31,92;31,92
 14864980;pfc328701;15533148;www.magazineluiza.com.br;2023-08-16 12:00:00;available;25,9;25,9;Época Cosméticos Perfumaria;Época Cosméticos Perfumaria;25,9;25,9
@@ -13402,11 +13281,6 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864943;pfc328671;13659981;www.americanas.com.br;2023-08-16 10:00:00;available;243,83;243,83;LKX;LKX;243,83;243,83
 14864943;pfc328671;13905460;www.submarino.com.br;2023-08-16 10:00:00;available;243,83;243,83;LKX;LKX;243,83;243,83
 14864943;pfc328671;13663782;www.magazineluiza.com.br;2023-08-16 12:00:00;available;256,74;256,74;Like Cosméticos;Like Cosméticos;256,74;256,74
-14864975;pfc328699;15979361;www.magazineluiza.com.br;2023-08-16 12:00:00;available;25,9;25,9;Época Cosméticos Perfumaria;Época Cosméticos Perfumaria;25,9;25,9
-14864975;pfc328699;12185140;www.belezanaweb.com.br;2023-08-16 05:00:00;available;27,9;27,9;Beleza na Web;Beleza na Web;27,9;27,9
-14864975;pfc328699;12191808;www.amazon.com.br;2023-08-16 09:00:00;available;27,9;27,9;Amazon.com.br;Amazon.com.br;27,9;27,9
-14864975;pfc328699;13384797;www.drogasil.com.br;2023-08-16 10:00:00;available;31,92;31,92;DROGASIL;DROGASIL;31,92;31,92
-14864975;pfc328699;13652496;www.drogaraia.com.br;2023-08-16 10:00:00;available;31,92;31,92;DROGARAIA;DROGARAIA;31,92;31,92
 14864970;pfc328692;12966858;www.amazon.com.br;2023-08-15 20:00:00;available;201,25;201,25;Theo Cosméticos;Theo Cosméticos;201,25;201,25
 14864970;pfc328692;12966858;www.amazon.com.br;2023-08-15 20:00:00;available;201,25;201,25;Theo Cosméticos;JLB Beauty;224,71;224,71
 14864970;pfc328692;12966858;www.amazon.com.br;2023-08-15 20:00:00;available;201,25;201,25;Theo Cosméticos;Prima Qualitá Cosméticos;218,99;218,99
@@ -13475,7 +13349,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 14864970;pfc328692;13664682;www.extra.com.br;2023-08-15 10:00:00;available;314,72;314,72;SEGREDO DA COR;SEGREDO DA COR;314,72;314,72
 14864970;pfc328692;17078895;www.pontofrio.com.br;2023-08-15 10:00:00;available;314,72;314,72;SEGREDO DA COR;SEGREDO DA COR;314,72;314,72
 14864962;pfc328724;15979423;www.magazineluiza.com.br;2023-08-16 12:00:00;available;26,9;26,9;Época Cosméticos Perfumaria;Época Cosméticos Perfumaria;26,9;26,9
-14864964;pfc328697;17695505;www.lojasrenner.com.br;2023-08-16 12:00:00;available;123,9;123,9;Amobeleza;Amobeleza;123,9;123,9
+14864964;pfc328697;17695505;www.lojasrenner.com.br;2023-08-16 14:00:00;available;123,9;123,9;Amobeleza;Amobeleza;123,9;123,9
 14864964;pfc328697;19678515;www.pontofrio.com.br;2023-08-15 12:00:00;available;136,94;136,94;Web Salão;Web Salão;136,94;136,94
 14864964;pfc328697;13661164;www.extra.com.br;2023-08-15 10:00:00;available;136,94;136,94;Web Salão;Web Salão;136,94;136,94
 14864964;pfc328697;19678514;www.casasbahia.com.br;2023-08-15 18:00:00;available;136,94;136,94;Web Salão;Web Salão;136,94;136,94
@@ -15027,7 +14901,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 16708198;pfc460209;17683207;www.drogasil.com.br;2023-08-16 10:00:00;available;159,9;159,9;DROGASIL;DROGASIL;159,9;159,9
 16708198;pfc460209;17596172;www.belezanaweb.com.br;2023-08-16 04:00:00;available;164,9;164,9;Amobeleza;Amobeleza;164,9;164,9
 16708198;pfc460209;17596172;www.belezanaweb.com.br;2023-08-16 04:00:00;available;164,9;164,9;Amobeleza;Beleza na Web;183,9;183,9
-16708198;pfc460209;17596027;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;200,0;200,0;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;200,0;200,0
+16708198;pfc460209;17596027;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;200,0;200,0;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;200,0;200,0
 16708198;pfc460209;17596175;www.americanas.com.br;2023-08-16 09:00:00;available;251,0;251,0;UM Beauty Store;UM Beauty Store;251,0;251,0
 16708198;pfc460209;17598219;www.submarino.com.br;2023-08-16 12:00:00;available;251,0;251,0;UM Beauty Store;UM Beauty Store;251,0;251,0
 16708198;pfc460209;17598220;www.shoptime.com.br;2023-08-16 08:00:00;available;251,0;251,0;UM Beauty Store;UM Beauty Store;251,0;251,0
@@ -15075,7 +14949,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 16708167;pfc460177;15941915;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;319,99;319,99;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;319,99;319,99
 16708200;pfc460211;17596178;www.belezanaweb.com.br;2023-08-16 05:00:00;available;89,9;89,9;Beleza na Web;Beleza na Web;89,9;89,9
 16708200;pfc460211;17596178;www.belezanaweb.com.br;2023-08-16 05:00:00;available;89,9;89,9;Beleza na Web;Amobeleza;81,9;81,9
-16708200;pfc460211;17596029;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;99,0;99,0;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;99,0;99,0
+16708200;pfc460211;17596029;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;99,0;99,0;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;99,0;99,0
 16990153;pfc509750;18586642;www.americanas.com.br;2023-08-16 10:00:00;available;295,9;295,9;DescabeladasHairShop;DescabeladasHairShop;295,9;295,9
 16990153;pfc509750;18586642;www.americanas.com.br;2023-08-16 10:00:00;available;295,9;295,9;DescabeladasHairShop;DESCABELADASHAIR SHOP;295,9;295,9
 16990153;pfc509750;18586642;www.americanas.com.br;2023-08-16 10:00:00;available;295,9;295,9;DescabeladasHairShop;Descabeladas;295,9;295,9
@@ -15172,22 +15046,6 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 16708194;pfc460203;17596154;www.belezanaweb.com.br;2023-08-16 04:00:00;available;148,9;148,9;Beleza na Web;Amobeleza;144,9;144,9
 16708194;pfc460203;18332747;www.belcosmeticos.com.br;2023-08-16 12:00:00;available;169,99;169,99;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;169,99;169,99
 16708194;pfc460203;17596022;www.mundodocabeleireiro.com.br;2023-08-16 12:00:00;available;170,0;170,0;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;170,0;170,0
-16990143;pfc509725;16001186;www.amobeleza.com.br;2023-08-16 12:00:00;available;82,9;82,9;Amobeleza;Amobeleza;82,9;82,9
-16990143;pfc509725;16225554;www.amazon.com.br;2023-08-15 17:00:00;available;85,9;85,9;Amazon.com.br;Amazon.com.br;85,9;85,9
-16990143;pfc509725;11954406;www.belezanaweb.com.br;2023-08-16 08:00:00;available;89,0;89,0;Bistro da Beleza;Bistro da Beleza;89,0;89,0
-16990143;pfc509725;11954406;www.belezanaweb.com.br;2023-08-16 08:00:00;available;89,0;89,0;Bistro da Beleza;"Cosm&Atilde;&copy;ticos FM";89,9;89,9
-16990143;pfc509725;11954406;www.belezanaweb.com.br;2023-08-16 08:00:00;available;89,0;89,0;Bistro da Beleza;Beleza na Web;98,9;98,9
-16990143;pfc509725;11954406;www.belezanaweb.com.br;2023-08-16 08:00:00;available;89,0;89,0;Bistro da Beleza;Amobeleza;96,9;96,9
-16990143;pfc509725;11954406;www.belezanaweb.com.br;2023-08-16 08:00:00;available;89,0;89,0;Bistro da Beleza;"Passi Cosm&Atilde;&copy;ticos";100,75;100,75
-16990143;pfc509725;11954406;www.belezanaweb.com.br;2023-08-16 08:00:00;available;89,0;89,0;Bistro da Beleza;Doce Beleza;105,9;105,9
-16990143;pfc509725;11954406;www.belezanaweb.com.br;2023-08-16 08:00:00;available;89,0;89,0;Bistro da Beleza;"Enamore Beleza Cosm&Atilde;&copy;tica";108,99;108,99
-16990143;pfc509725;11954406;www.belezanaweb.com.br;2023-08-16 08:00:00;available;89,0;89,0;Bistro da Beleza;Evas Perfumaria;103,9;103,9
-16990143;pfc509725;11954406;www.belezanaweb.com.br;2023-08-16 08:00:00;available;89,0;89,0;Bistro da Beleza;"Felice Cosm&Atilde;&copy;ticos";129,9;129,9
-16990143;pfc509725;11954406;www.belezanaweb.com.br;2023-08-16 08:00:00;available;89,0;89,0;Bistro da Beleza;"Perfumaria Sumir&Atilde;&ordf;";131,12;131,12
-16990143;pfc509725;11954406;www.belezanaweb.com.br;2023-08-16 08:00:00;available;89,0;89,0;Bistro da Beleza;Negabella;155,29;155,29
-16990143;pfc509725;11954406;www.belezanaweb.com.br;2023-08-16 08:00:00;available;89,0;89,0;Bistro da Beleza;"Lanaro Cosm&Atilde;&copy;ticos";219,9;219,9
-16990143;pfc509725;18774379;www.casasbahia.com.br;2023-08-15 12:00:00;available;119,9;111,51;AMOBELEZA COMERCIO DIGITAL E OFFLINE LTDA;AMOBELEZA COMERCIO DIGITAL E OFFLINE LTDA;119,9;111,51
-16990143;pfc509725;18769184;www.belcosmeticos.com.br;2023-08-16 12:00:00;available;124,9;124,9;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;124,9;124,9
 16708177;pfc460187;17250500;www.amazon.com.br;2023-08-15 22:00:00;available;229,0;229,0;Prima Qualitá Cosméticos;Prima Qualitá Cosméticos;229,0;229,0
 16708177;pfc460187;17250500;www.amazon.com.br;2023-08-15 22:00:00;available;229,0;229,0;Prima Qualitá Cosméticos;FAH PAES COSMETICOS 2;234,9;234,9
 16708177;pfc460187;17250500;www.amazon.com.br;2023-08-15 22:00:00;available;229,0;229,0;Prima Qualitá Cosméticos;FAMA COSMETICOS;244,9;244,9
@@ -15385,7 +15243,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 16708184;pfc460192;17683213;www.drogasil.com.br;2023-08-16 10:00:00;available;127,9;127,9;DROGASIL;DROGASIL;127,9;127,9
 16708184;pfc460192;17596075;www.drogaraia.com.br;2023-08-16 10:00:00;available;127,9;127,9;DROGARAIA;DROGARAIA;127,9;127,9
 16708184;pfc460192;18332734;www.belcosmeticos.com.br;2023-08-16 12:00:00;available;146,99;146,99;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;146,99;146,99
-16708184;pfc460192;17596012;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;147,0;147,0;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;147,0;147,0
+16708184;pfc460192;17596012;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;147,0;147,0;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;147,0;147,0
 16708195;pfc460204;17596157;www.belezanaweb.com.br;2023-08-16 06:00:00;available;155,9;155,9;Amobeleza;Amobeleza;155,9;155,9
 16708195;pfc460204;17596157;www.belezanaweb.com.br;2023-08-16 06:00:00;available;155,9;155,9;Amobeleza;Beleza na Web;175,9;175,9
 16708195;pfc460204;18332749;www.belcosmeticos.com.br;2023-08-16 12:00:00;available;200,99;200,99;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;200,99;200,99
@@ -15405,7 +15263,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 16708180;pfc460190;17596121;www.belezanaweb.com.br;2023-08-16 04:00:00;available;130,9;130,9;Beleza na Web;Beleza na Web;130,9;130,9
 16708180;pfc460190;17596121;www.belezanaweb.com.br;2023-08-16 04:00:00;available;130,9;130,9;Beleza na Web;Evas Perfumaria;135,9;135,9
 16708180;pfc460190;18332732;www.belcosmeticos.com.br;2023-08-16 12:00:00;available;149,9;149,9;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;149,9;149,9
-16708180;pfc460190;17596010;www.ikesaki.com.br;2023-08-16 13:00:00;available;174,5;174,5;Ikesaki;Ikesaki;174,5;174,5
+16708180;pfc460190;17596010;www.ikesaki.com.br;2023-08-16 14:00:00;available;174,5;174,5;Ikesaki;Ikesaki;174,5;174,5
 16708180;pfc460190;17596123;www.americanas.com.br;2023-08-16 10:00:00;available;335,0;335,0;UM Beauty Store;UM Beauty Store;335,0;335,0
 16708180;pfc460190;17598193;www.submarino.com.br;2023-08-14 10:00:00;available;335,0;335,0;UM Beauty Store;UM Beauty Store;335,0;335,0
 16708180;pfc460190;17598194;www.shoptime.com.br;2023-08-15 12:00:00;available;335,0;335,0;UM Beauty Store;UM Beauty Store;335,0;335,0
@@ -15631,7 +15489,7 @@ account_cluster_code;sku;product_id;domain;date_occurrence;availability;price;of
 16708191;pfc460199;17596143;www.belezanaweb.com.br;2023-08-16 05:00:00;available;182,9;182,9;Beleza na Web;Beleza na Web;182,9;182,9
 16708191;pfc460199;17596143;www.belezanaweb.com.br;2023-08-16 05:00:00;available;182,9;182,9;Beleza na Web;Amobeleza;174,9;174,9
 16708191;pfc460199;18332739;www.belcosmeticos.com.br;2023-08-16 12:00:00;available;190,99;190,99;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;BC PIEDADE DISTRIB. DE PRODUTOS DE BELEZA LTDA;190,99;190,99
-16708191;pfc460199;17596019;www.mundodocabeleireiro.com.br;2023-08-16 13:00:00;available;191,0;191,0;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;191,0;191,0
+16708191;pfc460199;17596019;www.mundodocabeleireiro.com.br;2023-08-16 14:00:00;available;191,0;191,0;MUNDO DO CABELEIREIRO;MUNDO DO CABELEIREIRO;191,0;191,0
 16990155;pfc509746;15475831;www.amazon.com.br;2023-08-16 10:00:00;available;176,0;176,0;Athenas Cosméticos;Athenas Cosméticos;176,0;176,0
 16990155;pfc509746;18594477;www.shoptime.com.br;2023-08-14 12:00:00;available;208,9;208,9;POUBEL PERFUMARIA;POUBEL PERFUMARIA;208,9;208,9
 16990155;pfc509746;18594477;www.shoptime.com.br;2023-08-14 12:00:00;available;208,9;208,9;POUBEL PERFUMARIA;SOPHIA COSMETICOS;208,99;208,99
