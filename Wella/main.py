@@ -45,7 +45,7 @@ for index, row in df_products.iterrows():
       print("Rate limit exceeded. Waiting for a second before continuing...")
       time.sleep(1)  # Wait for 1 second before continuing
       continue  # Move to the next iteration
-
+ 
     data = response_fact_json['data']
 
     for item in data:
