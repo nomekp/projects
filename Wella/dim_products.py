@@ -31,7 +31,7 @@ for index, row in df_products.iterrows():
     product = row['Product']  # Get the product value from the current row
     
     # Make an API request to get product data
-    url_fact = f"http://api.precifica.com.br/platform/consumerbrands/provider.precifica.com.br/scan/last/{product}"
+    url_fact = f"http://api.precifica.com.br/platform/consumerbrands/provider.precifica.com.br/metadata/{product}"
     payload_fact = {}
     headers_fact = {
         'Accept': 'application/vnd.api+json',
@@ -49,48 +49,30 @@ for index, row in df_products.iterrows():
     data = response_fact_json['data']
 
     for item in data:
-        account_cluster_code = item['account_cluster_code']
-        sku = item['sku']
-
-        for scan in item['last_scan']['data']:
-            product_id = scan['product_id']
-            domain = scan['domain']
-            date_occurrence = scan['date_occurrence']
-            availability = scan['availability']
-            price = scan.get('price', None)  # Get the price if it exists, otherwise None
-            offer_price = scan.get('offer_price', None)  # Get the offer_price if it exists, otherwise None
-            sold_by = scan['sold_by']
-
-            for seller in scan['sellers']:
-                seller_name = seller['sold_by']
-                seller_price = seller['price']
-                seller_offer_price = seller['offer_price']
-
-                # Create a dictionary with the data
-                row_data = {
-                    'account_cluster_code': account_cluster_code,
-                    'sku': sku,
-                    'product_id': product_id,
-                    'domain': domain,
-                    'date_occurrence': date_occurrence,
-                    'availability': availability,
-                    'price': price,
-                    'offer_price': offer_price,
-                    'sold_by': sold_by,
-                    'seller_name': seller_name,
-                    'seller_price': seller_price,
-                    'seller_offer_price': seller_offer_price
-                }
-
-                # Add the dictionary to the list
-                data_frames.append(row_data)
-
+        account_cluster_code = item.get('account_cluster_code')
+        sku = item.get('sku')
+        title = item.get('title')
+        brand = item.get('brand', '')  # Provide a default value ('') if brand is missing
+        ean = item.get('ean')
+        stock_availability_max = item.get('stock_availability_max')
+        lead_time = item.get('lead_time')
+        
+        # Append the data to the list as a dictionary
+        data_frames.append({
+            'account_cluster_code': account_cluster_code,
+            'sku': sku,
+            'title': title,
+            'brand': brand,
+            'ean': ean,
+            'stock_availability_max': stock_availability_max,
+            'lead_time': lead_time
+        })
 # Create a DataFrame consolidated from the list of dictionaries
 consolidated_df = pd.DataFrame(data_frames)
-# print(consolidated_df)
-# Save the DataFrame to a CSV file
+# print(consolidated_df
+#Save the DataFrame to a CSV file
 csv_data = consolidated_df.to_csv(index=False, sep=';', decimal=',')
-csv_filename = "Wella/fact_precifica.csv"
+csv_filename = "Wella/dim_products.csv"
 
 # Save the file in the GitHub environment (in the current directory)
 with open(csv_filename, 'w', encoding='utf-8') as f:
