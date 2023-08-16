@@ -84,7 +84,12 @@ for index, row in df_products.iterrows():
                     'sold_by': sold_by,
                     'seller_name': seller_name,
                     'seller_price': seller_price,
-                    'seller_offer_price': seller_offer_price
+                    'seller_offer_price': seller_offer_price,
+                    'from_price' : from_price,
+                    'fator' : fator,
+                    'factor_price' : factor_price,
+                    'factor_offer_price' : factor_offer_price,
+                    'factor_from_price' : factor_from_price
                 }
 
                 # Add the dictionary to the list
