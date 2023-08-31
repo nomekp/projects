@@ -18,90 +18,34 @@ response = requests.get(url, headers=headers)
 if response.status_code == 200:
     response_data = response.json()  # Parse JSON response
     token = response_data["data"]["token"]
+# print(token)
 
-# Read the products CSV file
-csv_products = "Wella/products.csv"
-df_products = pd.read_csv(csv_products, sep=';', decimal=',', encoding='utf-8')
+#Get products
+product = "pfc509734"
+url_fact = f"http://api.precifica.com.br/platform/consumerbrands/provider.precifica.com.br/scan/last/{product}"
 
-# Lista para armazenar os DataFrames individuais
-data_frames = []
+payload_fact = {}
+headers_fact = {
+  'Accept': 'application/vnd.api+json',
+  'Content-Type': 'application/vnd.api+json',
+  'Authorization': f'Bearer {token}'
+}
 
-# Iterate through each row in the products DataFrame
-for index, row in df_products.iterrows():
-    product = row['Product']  # Get the product value from the current row
-    
-    # Make an API request to get product data
-    url_fact = f"http://api.precifica.com.br/platform/consumerbrands/provider.precifica.com.br/scan/last/{product}"
-    payload_fact = {}
-    headers_fact = {
-        'Accept': 'application/vnd.api+json',
-        'Content-Type': 'application/vnd.api+json',
-        'Authorization': f'Bearer {token}'
-    }
+response_fact = requests.request("GET", url_fact, headers=headers_fact, data=payload_fact)
 
-    response_fact = requests.request("GET", url_fact, headers=headers_fact, data=payload_fact)
-    response_fact_json = response_fact.json()
-    if response_fact.status_code == 429:
-      print("Rate limit exceeded. Waiting for a second before continuing...")
-      time.sleep(1)  # Wait for 1 second before continuing
-      continue  # Move to the next iteration
- 
-    data = response_fact_json['data']
+response_fact_json = response_fact.json()
 
-    for item in data:
-        account_cluster_code = item['account_cluster_code']
-        sku = item['sku']
+print(response_fact_json)
+# import pandas as pd
 
-        for scan in item['last_scan']['data']:
-            product_id = scan['product_id']
-            domain = scan['domain']
-            date_occurrence = scan['date_occurrence']
-            availability = scan['availability']
-            price = scan.get('price', None)
-            offer_price = scan.get('offer_price', None)
-            sold_by = scan['sold_by']
-            from_price = scan.get('from_price', None)
-            fator = scan.get('fator', None)
-            factor_price = scan.get('factor_price', None)
-            factor_offer_price = scan.get('factor_offer_price', None)
-            factor_from_price = scan.get('factor_from_price', None)
+# # Caminho para o arquivo CSV
+# caminho_arquivo = r"D:\Users\bruno_wakiyama\OneDrive - wella\VENDAS\DASHBOARD PRECIFICA\dim_products.csv"
 
-            for seller in scan['sellers']:
-                seller_name = seller['sold_by']
-                seller_price = seller['price']
-                seller_offer_price = seller['offer_price']
+# # Lê o arquivo CSV em um DataFrame do pandas
+# dados = pd.read_csv(caminho_arquivo)
 
-                # Create a dictionary with the data
-                row_data = {
-                    'account_cluster_code': account_cluster_code,
-                    'sku': sku,
-                    'product_id': product_id,
-                    'domain': domain,
-                    'date_occurrence': date_occurrence,
-                    'availability': availability,
-                    'price': price,
-                    'offer_price': offer_price,
-                    'sold_by': sold_by,
-                    'seller_name': seller_name,
-                    'seller_price': seller_price,
-                    'seller_offer_price': seller_offer_price,
-                    'from_price' : from_price,
-                    'fator' : fator,
-                    'factor_price' : factor_price,
-                    'factor_offer_price' : factor_offer_price,
-                    'factor_from_price' : factor_from_price
-                }
+# # Agora você pode trabalhar com os dados no DataFrame 'dados'
+# print(dados.head())  # Exibe as primeiras linhas do DataFrame
 
-                # Add the dictionary to the list
-                data_frames.append(row_data)
 
-# Create a DataFrame consolidated from the list of dictionaries
-consolidated_df = pd.DataFrame(data_frames)
-# print(consolidated_df)
-# Save the DataFrame to a CSV file
-csv_data = consolidated_df.to_csv(index=False, sep=';', decimal=',')
-csv_filename = "Wella/fact_precifica.csv"
 
-# Save the file in the GitHub environment (in the current directory)
-with open(csv_filename, 'w', encoding='utf-8') as f:
-    f.write(csv_data)
